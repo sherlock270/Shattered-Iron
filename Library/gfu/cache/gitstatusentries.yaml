@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1dd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 5
+  lastUpdatedAtString: 2018-07-04T10:05:23.665-05:00
+  initializedAtString: 2018-07-04T10:05:23.665-05:00
+  entries:
+  - path: Assets/Enemy Design/Animation.meta
+    fullPath: /Users/admin/Desktop/Unity Projects/Hackathon-Unity-Project/Assets/Enemy
+      Design/Animation.meta
+    projectPath: Assets/Enemy Design/Animation.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets/Enemy Design/Models.meta
+    fullPath: /Users/admin/Desktop/Unity Projects/Hackathon-Unity-Project/Assets/Enemy
+      Design/Models.meta
+    projectPath: Assets/Enemy Design/Models.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets/Enemy Design/Prefabs.meta
+    fullPath: /Users/admin/Desktop/Unity Projects/Hackathon-Unity-Project/Assets/Enemy
+      Design/Prefabs.meta
+    projectPath: Assets/Enemy Design/Prefabs.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets/Enemy Design/Sounds.meta
+    fullPath: /Users/admin/Desktop/Unity Projects/Hackathon-Unity-Project/Assets/Enemy
+      Design/Sounds.meta
+    projectPath: Assets/Enemy Design/Sounds.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets/Level Design/Models.meta
+    fullPath: /Users/admin/Desktop/Unity Projects/Hackathon-Unity-Project/Assets/Level
+      Design/Models.meta
+    projectPath: Assets/Level Design/Models.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets/Level Design/Scripts.meta
+    fullPath: /Users/admin/Desktop/Unity Projects/Hackathon-Unity-Project/Assets/Level
+      Design/Scripts.meta
+    projectPath: Assets/Level Design/Scripts.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets/Level Design/Sounds.meta
+    fullPath: /Users/admin/Desktop/Unity Projects/Hackathon-Unity-Project/Assets/Level
+      Design/Sounds.meta
+    projectPath: Assets/Level Design/Sounds.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets/Player Design/Animation.meta
+    fullPath: /Users/admin/Desktop/Unity Projects/Hackathon-Unity-Project/Assets/Player
+      Design/Animation.meta
+    projectPath: Assets/Player Design/Animation.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets/Player Design/Models.meta
+    fullPath: /Users/admin/Desktop/Unity Projects/Hackathon-Unity-Project/Assets/Player
+      Design/Models.meta
+    projectPath: Assets/Player Design/Models.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets/Plugins/ProCore/Polybrush/Shader/z_TriPlanarBlend.shader
+    fullPath: /Users/admin/Desktop/Unity Projects/Hackathon-Unity-Project/Assets/Plugins/ProCore/Polybrush/Shader/z_TriPlanarBlend.shader
+    projectPath: Assets/Plugins/ProCore/Polybrush/Shader/z_TriPlanarBlend.shader
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: "Assets/Plugins/Weapons Pack(LOW POLY)/grenade-launcher/lan\xE7a.001.prefab"
+    fullPath: "/Users/admin/Desktop/Unity Projects/Hackathon-Unity-Project/Assets/Plugins/Weapons
+      Pack(LOW POLY)/grenade-launcher/lan\xE7a.001.prefab"
+    projectPath: "Assets/Plugins/Weapons Pack(LOW POLY)/grenade-launcher/lan\xE7a.001.prefab"
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets/System Design/Materials.meta
+    fullPath: /Users/admin/Desktop/Unity Projects/Hackathon-Unity-Project/Assets/System
+      Design/Materials.meta
+    projectPath: Assets/System Design/Materials.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets/System Design/Models.meta
+    fullPath: /Users/admin/Desktop/Unity Projects/Hackathon-Unity-Project/Assets/System
+      Design/Models.meta
+    projectPath: Assets/System Design/Models.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets/System Design/Prefabs.meta
+    fullPath: /Users/admin/Desktop/Unity Projects/Hackathon-Unity-Project/Assets/System
+      Design/Prefabs.meta
+    projectPath: Assets/System Design/Prefabs.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets/System Design/Scripts.meta
+    fullPath: /Users/admin/Desktop/Unity Projects/Hackathon-Unity-Project/Assets/System
+      Design/Scripts.meta
+    projectPath: Assets/System Design/Scripts.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets/System Design/Sounds.meta
+    fullPath: /Users/admin/Desktop/Unity Projects/Hackathon-Unity-Project/Assets/System
+      Design/Sounds.meta
+    projectPath: Assets/System Design/Sounds.meta
+    originalPath: 
+    status: 5
+    staged: 0

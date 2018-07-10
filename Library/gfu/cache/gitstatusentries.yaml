@@ -12,48 +12,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-07-09T19:59:17.814-05:00
+  lastUpdatedAtString: 2018-07-09T19:59:49.199-05:00
   initializedAtString: 2018-07-09T19:59:16.108-05:00
   entries:
-  - path: Library/EditorInstance.json
-    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/EditorInstance.json
-    projectPath: Library/EditorInstance.json
+  - path: Library/gfu/cache/branches.yaml
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/gfu/cache/branches.yaml
+    projectPath: Library/gfu/cache/branches.yaml
     originalPath: 
     status: 1
     staged: 0
-  - path: Library/gfu/cache/gitstatusentries.yaml
-    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/gfu/cache/gitstatusentries.yaml
-    projectPath: Library/gfu/cache/gitstatusentries.yaml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library/gfu/cache/gittrackingstatus.yaml
-    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/gfu/cache/gittrackingstatus.yaml
-    projectPath: Library/gfu/cache/gittrackingstatus.yaml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library/gfu/cache/repoinfo.yaml
-    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/gfu/cache/repoinfo.yaml
-    projectPath: Library/gfu/cache/repoinfo.yaml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library/shadercompiler-UnityShaderCompiler0.log
-    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/shadercompiler-UnityShaderCompiler0.log
-    projectPath: Library/shadercompiler-UnityShaderCompiler0.log
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert
-    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert
-    projectPath: Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp/UnityLockfile
-    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/UnityLockfile
-    projectPath: Temp/UnityLockfile
+  - path: Library/gfu/cache/gitlog.yaml
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/gfu/cache/gitlog.yaml
+    projectPath: Library/gfu/cache/gitlog.yaml
     originalPath: 
     status: 1
     staged: 0

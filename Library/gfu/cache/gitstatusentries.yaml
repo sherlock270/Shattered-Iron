@@ -12,117 +12,48 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-07-04T10:05:23.665-05:00
-  initializedAtString: 2018-07-04T10:05:23.665-05:00
+  lastUpdatedAtString: 2018-07-09T19:59:17.814-05:00
+  initializedAtString: 2018-07-09T19:59:16.108-05:00
   entries:
-  - path: Assets/Enemy Design/Animation.meta
-    fullPath: /Users/admin/Desktop/Unity Projects/Hackathon-Unity-Project/Assets/Enemy
-      Design/Animation.meta
-    projectPath: Assets/Enemy Design/Animation.meta
+  - path: Library/EditorInstance.json
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/EditorInstance.json
+    projectPath: Library/EditorInstance.json
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
-  - path: Assets/Enemy Design/Models.meta
-    fullPath: /Users/admin/Desktop/Unity Projects/Hackathon-Unity-Project/Assets/Enemy
-      Design/Models.meta
-    projectPath: Assets/Enemy Design/Models.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets/Enemy Design/Prefabs.meta
-    fullPath: /Users/admin/Desktop/Unity Projects/Hackathon-Unity-Project/Assets/Enemy
-      Design/Prefabs.meta
-    projectPath: Assets/Enemy Design/Prefabs.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets/Enemy Design/Sounds.meta
-    fullPath: /Users/admin/Desktop/Unity Projects/Hackathon-Unity-Project/Assets/Enemy
-      Design/Sounds.meta
-    projectPath: Assets/Enemy Design/Sounds.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets/Level Design/Models.meta
-    fullPath: /Users/admin/Desktop/Unity Projects/Hackathon-Unity-Project/Assets/Level
-      Design/Models.meta
-    projectPath: Assets/Level Design/Models.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets/Level Design/Scripts.meta
-    fullPath: /Users/admin/Desktop/Unity Projects/Hackathon-Unity-Project/Assets/Level
-      Design/Scripts.meta
-    projectPath: Assets/Level Design/Scripts.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets/Level Design/Sounds.meta
-    fullPath: /Users/admin/Desktop/Unity Projects/Hackathon-Unity-Project/Assets/Level
-      Design/Sounds.meta
-    projectPath: Assets/Level Design/Sounds.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets/Player Design/Animation.meta
-    fullPath: /Users/admin/Desktop/Unity Projects/Hackathon-Unity-Project/Assets/Player
-      Design/Animation.meta
-    projectPath: Assets/Player Design/Animation.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets/Player Design/Models.meta
-    fullPath: /Users/admin/Desktop/Unity Projects/Hackathon-Unity-Project/Assets/Player
-      Design/Models.meta
-    projectPath: Assets/Player Design/Models.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets/Plugins/ProCore/Polybrush/Shader/z_TriPlanarBlend.shader
-    fullPath: /Users/admin/Desktop/Unity Projects/Hackathon-Unity-Project/Assets/Plugins/ProCore/Polybrush/Shader/z_TriPlanarBlend.shader
-    projectPath: Assets/Plugins/ProCore/Polybrush/Shader/z_TriPlanarBlend.shader
+  - path: Library/gfu/cache/gitstatusentries.yaml
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/gfu/cache/gitstatusentries.yaml
+    projectPath: Library/gfu/cache/gitstatusentries.yaml
     originalPath: 
     status: 3
     staged: 0
-  - path: "Assets/Plugins/Weapons Pack(LOW POLY)/grenade-launcher/lan\xE7a.001.prefab"
-    fullPath: "/Users/admin/Desktop/Unity Projects/Hackathon-Unity-Project/Assets/Plugins/Weapons
-      Pack(LOW POLY)/grenade-launcher/lan\xE7a.001.prefab"
-    projectPath: "Assets/Plugins/Weapons Pack(LOW POLY)/grenade-launcher/lan\xE7a.001.prefab"
+  - path: Library/gfu/cache/gittrackingstatus.yaml
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/gfu/cache/gittrackingstatus.yaml
+    projectPath: Library/gfu/cache/gittrackingstatus.yaml
     originalPath: 
     status: 3
     staged: 0
-  - path: Assets/System Design/Materials.meta
-    fullPath: /Users/admin/Desktop/Unity Projects/Hackathon-Unity-Project/Assets/System
-      Design/Materials.meta
-    projectPath: Assets/System Design/Materials.meta
+  - path: Library/gfu/cache/repoinfo.yaml
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/gfu/cache/repoinfo.yaml
+    projectPath: Library/gfu/cache/repoinfo.yaml
     originalPath: 
-    status: 5
+    status: 3
     staged: 0
-  - path: Assets/System Design/Models.meta
-    fullPath: /Users/admin/Desktop/Unity Projects/Hackathon-Unity-Project/Assets/System
-      Design/Models.meta
-    projectPath: Assets/System Design/Models.meta
+  - path: Library/shadercompiler-UnityShaderCompiler0.log
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/shadercompiler-UnityShaderCompiler0.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler0.log
     originalPath: 
-    status: 5
+    status: 3
     staged: 0
-  - path: Assets/System Design/Prefabs.meta
-    fullPath: /Users/admin/Desktop/Unity Projects/Hackathon-Unity-Project/Assets/System
-      Design/Prefabs.meta
-    projectPath: Assets/System Design/Prefabs.meta
+  - path: Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    projectPath: Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
-  - path: Assets/System Design/Scripts.meta
-    fullPath: /Users/admin/Desktop/Unity Projects/Hackathon-Unity-Project/Assets/System
-      Design/Scripts.meta
-    projectPath: Assets/System Design/Scripts.meta
+  - path: Temp/UnityLockfile
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/UnityLockfile
+    projectPath: Temp/UnityLockfile
     originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets/System Design/Sounds.meta
-    fullPath: /Users/admin/Desktop/Unity Projects/Hackathon-Unity-Project/Assets/System
-      Design/Sounds.meta
-    projectPath: Assets/System Design/Sounds.meta
-    originalPath: 
-    status: 5
+    status: 1
     staged: 0

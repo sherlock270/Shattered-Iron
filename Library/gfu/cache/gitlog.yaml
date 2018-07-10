@@ -12,9 +12,45 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2018-07-09T19:59:50.975-05:00
+  lastUpdatedAtString: 2018-07-09T20:00:08.596-05:00
   initializedAtString: 2018-07-09T19:59:50.975-05:00
   log:
+  - commitID: 42dd73c459045800894fdc33ee271d94fc4c03ee
+    mergeA: 
+    mergeB: 
+    authorName: Charles Cortinas
+    authorEmail: crcortinas@gmail.com
+    commitEmail: crcortinas@gmail.com
+    commitName: Charles Cortinas
+    summary: Prep Unity
+    description: Prep Unity
+    timeString: 2018-07-09T20:00:06.000-05:00
+    commitTimeString: 2018-07-09T20:00:06.000-05:00
+    changes:
+    - path: Library/gfu/cache/branches.yaml
+      fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/gfu/cache/branches.yaml
+      projectPath: Library/gfu/cache/branches.yaml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/gfu/cache/gitlog.yaml
+      fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/gfu/cache/gitlog.yaml
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/gfu/cache/gitstatusentries.yaml
+      fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/gfu/cache/gitstatusentries.yaml
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/gfu/cache/gittrackingstatus.yaml
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: 98bb4261aee524ad372496671a313803de6ac7ab
     mergeA: 
     mergeB: 

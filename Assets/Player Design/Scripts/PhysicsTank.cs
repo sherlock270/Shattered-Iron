@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 
 [RequireComponent(typeof(Rigidbody))]
-public class PlayerPhysicsTank : MonoBehaviour
+public class PhysicsTank : MonoBehaviour
 {
    [Tooltip("Top speed of the tank in m/s.")]
    public float topSpeed = 10.0f;
@@ -52,7 +52,7 @@ public class PlayerPhysicsTank : MonoBehaviour
             rigid.centerOfMass = centerOfMass.localPosition;
          else
             Debug.LogWarning(name + ": PhysicsTank cannot override center of mass when " + centerOfMass.name + " is not a child of " + transform.name);
-         
+
       }
 
       if (wheelModelPrefab != null)
@@ -83,7 +83,7 @@ public class PlayerPhysicsTank : MonoBehaviour
    /// <summary>
    /// POWERED WHEELS
    /// Sets the motor torque of the wheel based on forward input. This moves
-   /// the tank forwards and backwards. 
+   /// the tank forwards and backwards.
    /// </summary>
    private void RunPoweredWheels()
    {
@@ -112,7 +112,7 @@ public class PlayerPhysicsTank : MonoBehaviour
    /// DIFFERENTIAL STEERING
    /// When turning, the left/right wheel colliders will apply an extra
    /// torque in opposing directions and rotate the tank.
-   /// 
+   ///
    /// Note: Wheel sideways friction can easily prevent the tank from
    /// rotating when this is done. Lowering side friction for wheels that
    /// don't need it (i.e., wheels away from the center) can mitigate this.
@@ -129,8 +129,8 @@ public class PlayerPhysicsTank : MonoBehaviour
    /// FOUR WHEEL STEERING
    /// Wheels assigned as front and rear wheels rotate to turn the tank.
    /// This works great in motion, but will not turn the tank when standing
-   /// still. 
-   /// 
+   /// still.
+   ///
    /// Note: If only one set of wheels is filled out, only that set will
    /// rotate.
    /// </summary>
@@ -147,7 +147,7 @@ public class PlayerPhysicsTank : MonoBehaviour
    /// Simply rotates the Rigidbody itself using a predefined rotation rate
    /// and turning input. This has no connection to physics in any way, but
    /// is very controllable and predictable.
-   /// 
+   ///
    /// Note: Since there is no connection to the physics, the tank could
    /// turn even if it wasn't on the ground. A simple way to counter this
    /// would be to check how many wheels are on the ground and then reduce
@@ -173,7 +173,7 @@ public class PlayerPhysicsTank : MonoBehaviour
          if (WheelToTransformMap.ContainsKey(wheel) == false)
          {
             Transform temp = Instantiate(wheelModelPrefab, wheel.transform, false);
-            
+
             // Scale the model prefab to match the radius. (Assumes prefab has diameter of 1m.)
             temp.localScale = Vector3.one * wheel.radius * 2.0f;
             WheelToTransformMap.Add(wheel, temp);

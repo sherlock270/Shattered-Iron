@@ -118,6 +118,7 @@ GameObject:
   - component: {fileID: 4096283224388956}
   - component: {fileID: 114762806251857444}
   - component: {fileID: 82531691055612224}
+  - component: {fileID: 114812021268972074}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -512,7 +513,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1197286614840094}
   m_LocalRotation: {x: 0.000000014901161, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 1, z: -20}
+  m_LocalPosition: {x: 602.6275, y: 1, z: -9086.016}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4002215055673022}
@@ -1408,8 +1409,7 @@ MonoBehaviour:
   motorTorque: 300
   magicTurnRate: 20
   centerOfMass: {fileID: 4061439252444384}
-  wheelModelPrefab: {fileID: 4015018539104022, guid: 561a66260d93856418e84abca2cff805,
-    type: 2}
+  wheelModelPrefab: {fileID: 400000, guid: b7604807c4f956c4daa589baf5e3a4bc, type: 3}
   front:
   - {fileID: 146759011277774742}
   - {fileID: 146790319009451446}
@@ -1437,7 +1437,10 @@ MonoBehaviour:
   playerCam: {fileID: 0}
   missilePrefab: {fileID: 1907451490272698, guid: 16d5599cddcf30c43b8e5090afe31a8e,
     type: 2}
-  missileSpawn: {fileID: 4106848881055898}
+  missileSpawn: {fileID: 4396945142565014}
+  missile2Prefab: {fileID: 1907451490272698, guid: 16d5599cddcf30c43b8e5090afe31a8e,
+    type: 2}
+  missile2Spawn: {fileID: 4672555461080622}
   missileSpeed: 60
   missileFireRate: 1
   grenadePrefab: {fileID: 1205855786829720, guid: ab6400736503b474e818a2b93476b7b6,
@@ -1446,6 +1449,7 @@ MonoBehaviour:
   grenadeSpeed: 55
   grenadeFireRate: 5
   grenadeAmmo: 5
+  missileAmmo: 2
   muzzleFlash: {fileID: 198754889245309390}
   impactEffect: {fileID: 1590574751254156, guid: f35536b412e75e14590a0eef631917b5,
     type: 2}
@@ -1453,6 +1457,25 @@ MonoBehaviour:
   range: 100
   impactForce: 10000
   gunFireRate: 5
+  startingHealth: 300
+  currentHealth: 0
+--- !u!114 &114812021268972074
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1197286614840094}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: acda79c2c6432ce43a7129d23ca462d5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  lookAt: {fileID: 4096283224388956}
+  camTransform: {fileID: 0}
+  turret: {fileID: 4222201284393210}
+  camHeight: 0.5
+  distanceZoom: 4
+  currentY: 0
 --- !u!146 &146231548920039162
 WheelCollider:
   m_ObjectHideFlags: 1

@@ -12,12 +12,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2018-07-09T19:59:48.887-05:00
+  lastUpdatedAtString: 2018-07-09T20:22:41.673-05:00
   initializedAtString: 2018-07-09T19:59:48.833-05:00
   localBranches:
   - name: master
     tracking: origin/master
-  remoteBranches: []
+  remoteBranches:
+  - name: origin/master
+    tracking: '[None]'
   remotes:
   - name: origin
     url: https://github.com/sherlock270/Shattered-Iron.git
@@ -36,9 +38,18 @@ MonoBehaviour:
         url: https://github.com/sherlock270/Shattered-Iron.git
       trackingBranch: master
   remoteConfigBranches:
-    keys: []
-    subKeys: []
-    subKeyValues: []
+    keys:
+    - origin
+    subKeys:
+    - Values:
+      - master
+    subKeyValues:
+    - Values:
+      - name: master
+        remote:
+          name: origin
+          url: https://github.com/sherlock270/Shattered-Iron.git
+        trackingBranch: 
   configRemotes:
     keys:
     - origin

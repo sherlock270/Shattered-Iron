@@ -12,18 +12,2312 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-07-09T19:59:49.199-05:00
+  lastUpdatedAtString: 2018-07-09T21:33:19.481-05:00
   initializedAtString: 2018-07-09T19:59:16.108-05:00
   entries:
+  - path: Assets/__Scenes/Gameplay.prefab
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Assets/__Scenes/Gameplay.prefab
+    projectPath: Assets/__Scenes/Gameplay.prefab
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets/__Scenes/PlaneJane.unity
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Assets/__Scenes/PlaneJane.unity
+    projectPath: Assets/__Scenes/PlaneJane.unity
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets/__Scenes/PlaneJane.unity.meta
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Assets/__Scenes/PlaneJane.unity.meta
+    projectPath: Assets/__Scenes/PlaneJane.unity.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets/Enemy Design/Prefabs 1/Enemy.prefab
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Assets/Enemy Design/Prefabs
+      1/Enemy.prefab
+    projectPath: Assets/Enemy Design/Prefabs 1/Enemy.prefab
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets/Level Design/Map3.unity
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Assets/Level Design/Map3.unity
+    projectPath: Assets/Level Design/Map3.unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets/Player Design/Prefabs/ambulance/Player.prefab
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Assets/Player Design/Prefabs/ambulance/Player.prefab
+    projectPath: Assets/Player Design/Prefabs/ambulance/Player.prefab
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets/Player Design/Scripts/PhysicsTank.cs
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Assets/Player Design/Scripts/PhysicsTank.cs
+    projectPath: Assets/Player Design/Scripts/PhysicsTank.cs
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets/Plugins/ProCore/PolybrushBrush Settings.meta
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Assets/Plugins/ProCore/PolybrushBrush
+      Settings.meta
+    projectPath: Assets/Plugins/ProCore/PolybrushBrush Settings.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets/Plugins/ProCore/PolybrushBrush Settings/Default.asset
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Assets/Plugins/ProCore/PolybrushBrush
+      Settings/Default.asset
+    projectPath: Assets/Plugins/ProCore/PolybrushBrush Settings/Default.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets/Plugins/ProCore/PolybrushBrush Settings/Default.asset.meta
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Assets/Plugins/ProCore/PolybrushBrush
+      Settings/Default.asset.meta
+    projectPath: Assets/Plugins/ProCore/PolybrushBrush Settings/Default.asset.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets/Plugins/ProCore/PolybrushColor Palettes.meta
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Assets/Plugins/ProCore/PolybrushColor
+      Palettes.meta
+    projectPath: Assets/Plugins/ProCore/PolybrushColor Palettes.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets/Plugins/ProCore/PolybrushColor Palettes/Default.asset
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Assets/Plugins/ProCore/PolybrushColor
+      Palettes/Default.asset
+    projectPath: Assets/Plugins/ProCore/PolybrushColor Palettes/Default.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets/Plugins/ProCore/PolybrushColor Palettes/Default.asset.meta
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Assets/Plugins/ProCore/PolybrushColor
+      Palettes/Default.asset.meta
+    projectPath: Assets/Plugins/ProCore/PolybrushColor Palettes/Default.asset.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets/Plugins/ProCore/PolybrushSettings.asset
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Assets/Plugins/ProCore/PolybrushSettings.asset
+    projectPath: Assets/Plugins/ProCore/PolybrushSettings.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets/Plugins/ProCore/PolybrushSettings.asset.meta
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Assets/Plugins/ProCore/PolybrushSettings.asset.meta
+    projectPath: Assets/Plugins/ProCore/PolybrushSettings.asset.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets/Plugins/ProCore/ProBuilder/Resources/Materials/Default_Prototype.mat
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Assets/Plugins/ProCore/ProBuilder/Resources/Materials/Default_Prototype.mat
+    projectPath: Assets/Plugins/ProCore/ProBuilder/Resources/Materials/Default_Prototype.mat
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/assetDatabase3
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/assetDatabase3
+    projectPath: Library/assetDatabase3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/CrashedAssetImports.txt
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/CrashedAssetImports.txt
+    projectPath: Library/CrashedAssetImports.txt
+    originalPath: 
+    status: 1
+    staged: 0
   - path: Library/gfu/cache/branches.yaml
     fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/gfu/cache/branches.yaml
     projectPath: Library/gfu/cache/branches.yaml
     originalPath: 
-    status: 1
+    status: 3
+    staged: 0
+  - path: Library/gfu/cache/gitlocks.yaml
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/gfu/cache/gitlocks.yaml
+    projectPath: Library/gfu/cache/gitlocks.yaml
+    originalPath: 
+    status: 3
     staged: 0
   - path: Library/gfu/cache/gitlog.yaml
     fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/gfu/cache/gitlog.yaml
     projectPath: Library/gfu/cache/gitlog.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/gfu/cache/gitstatusentries.yaml
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/gfu/cache/gitstatusentries.yaml
+    projectPath: Library/gfu/cache/gitstatusentries.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/gfu/cache/gittrackingstatus.yaml
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/gfu/cache/gittrackingstatus.yaml
+    projectPath: Library/gfu/cache/gittrackingstatus.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/gfu/cache/gituser.yaml
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/gfu/cache/gituser.yaml
+    projectPath: Library/gfu/cache/gituser.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/InspectorExpandedItems.asset
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/InspectorExpandedItems.asset
+    projectPath: Library/InspectorExpandedItems.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/0d/0d84f955e93eae344b8af410d738b87d
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/metadata/0d/0d84f955e93eae344b8af410d738b87d
+    projectPath: Library/metadata/0d/0d84f955e93eae344b8af410d738b87d
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/13/13aa2b4f736b14de080dd8bc2a31b9b1
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/metadata/13/13aa2b4f736b14de080dd8bc2a31b9b1
+    projectPath: Library/metadata/13/13aa2b4f736b14de080dd8bc2a31b9b1
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/13/13aa2b4f736b14de080dd8bc2a31b9b1.info
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/metadata/13/13aa2b4f736b14de080dd8bc2a31b9b1.info
+    projectPath: Library/metadata/13/13aa2b4f736b14de080dd8bc2a31b9b1.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/1b/1b7cca7bc7cb1ce49a2f648c13be4e0a.info
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/metadata/1b/1b7cca7bc7cb1ce49a2f648c13be4e0a.info
+    projectPath: Library/metadata/1b/1b7cca7bc7cb1ce49a2f648c13be4e0a.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/28/2890942849d715045823892f01fc26a9.info
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/metadata/28/2890942849d715045823892f01fc26a9.info
+    projectPath: Library/metadata/28/2890942849d715045823892f01fc26a9.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/2c/2c9c434c579e54367be1c40ff3573b86.info
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/metadata/2c/2c9c434c579e54367be1c40ff3573b86.info
+    projectPath: Library/metadata/2c/2c9c434c579e54367be1c40ff3573b86.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/55/55296d1b6ee54e14e8eb4648d4b448ee.info
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/metadata/55/55296d1b6ee54e14e8eb4648d4b448ee.info
+    projectPath: Library/metadata/55/55296d1b6ee54e14e8eb4648d4b448ee.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/5e/5efdc996f76174883890cfc133f96cf0
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/metadata/5e/5efdc996f76174883890cfc133f96cf0
+    projectPath: Library/metadata/5e/5efdc996f76174883890cfc133f96cf0
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/5e/5efdc996f76174883890cfc133f96cf0.info
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/metadata/5e/5efdc996f76174883890cfc133f96cf0.info
+    projectPath: Library/metadata/5e/5efdc996f76174883890cfc133f96cf0.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/8f/8f621bfa90a0342a5998aa501165adb7
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/metadata/8f/8f621bfa90a0342a5998aa501165adb7
+    projectPath: Library/metadata/8f/8f621bfa90a0342a5998aa501165adb7
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/8f/8f621bfa90a0342a5998aa501165adb7.info
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/metadata/8f/8f621bfa90a0342a5998aa501165adb7.info
+    projectPath: Library/metadata/8f/8f621bfa90a0342a5998aa501165adb7.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/be/be7d0f9108d264677b8c5f56cbe7d8fd
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/metadata/be/be7d0f9108d264677b8c5f56cbe7d8fd
+    projectPath: Library/metadata/be/be7d0f9108d264677b8c5f56cbe7d8fd
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/be/be7d0f9108d264677b8c5f56cbe7d8fd.info
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/metadata/be/be7d0f9108d264677b8c5f56cbe7d8fd.info
+    projectPath: Library/metadata/be/be7d0f9108d264677b8c5f56cbe7d8fd.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/d5/d5890851d426842ae9397cfced96952b
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/metadata/d5/d5890851d426842ae9397cfced96952b
+    projectPath: Library/metadata/d5/d5890851d426842ae9397cfced96952b
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/d5/d5890851d426842ae9397cfced96952b.info
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/metadata/d5/d5890851d426842ae9397cfced96952b.info
+    projectPath: Library/metadata/d5/d5890851d426842ae9397cfced96952b.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/d9/d9325f8761a9d4489ac2a9d4ff0c1697
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/metadata/d9/d9325f8761a9d4489ac2a9d4ff0c1697
+    projectPath: Library/metadata/d9/d9325f8761a9d4489ac2a9d4ff0c1697
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/d9/d9325f8761a9d4489ac2a9d4ff0c1697.info
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/metadata/d9/d9325f8761a9d4489ac2a9d4ff0c1697.info
+    projectPath: Library/metadata/d9/d9325f8761a9d4489ac2a9d4ff0c1697.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/e4/e4110dc5c1806dd48a477288287ec154.info
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/metadata/e4/e4110dc5c1806dd48a477288287ec154.info
+    projectPath: Library/metadata/e4/e4110dc5c1806dd48a477288287ec154.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/ScriptAssemblies/Assembly-CSharp.dll
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ScriptAssemblies/Assembly-CSharp.dll
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/ShaderCache.db
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache.db
+    projectPath: Library/ShaderCache.db
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/ShaderCache/0/0009dcd49474e797c8f00171f61dddf8.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/0/0009dcd49474e797c8f00171f61dddf8.bin
+    projectPath: Library/ShaderCache/0/0009dcd49474e797c8f00171f61dddf8.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/0/00c3e36c7bd1499bba857c140df55faf.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/0/00c3e36c7bd1499bba857c140df55faf.bin
+    projectPath: Library/ShaderCache/0/00c3e36c7bd1499bba857c140df55faf.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/0/00fca76eebe761c207fe54d239467384.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/0/00fca76eebe761c207fe54d239467384.bin
+    projectPath: Library/ShaderCache/0/00fca76eebe761c207fe54d239467384.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/0/01f3d7a050cc74e6d61804b2e46ab88d.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/0/01f3d7a050cc74e6d61804b2e46ab88d.bin
+    projectPath: Library/ShaderCache/0/01f3d7a050cc74e6d61804b2e46ab88d.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/0/026f1e9b80e2d032e5a162acd654b06e.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/0/026f1e9b80e2d032e5a162acd654b06e.bin
+    projectPath: Library/ShaderCache/0/026f1e9b80e2d032e5a162acd654b06e.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/0/03312fff3bebd427c92246f27c743eb7.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/0/03312fff3bebd427c92246f27c743eb7.bin
+    projectPath: Library/ShaderCache/0/03312fff3bebd427c92246f27c743eb7.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/0/061ed479aa0eaa1296abbb1790571b08.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/0/061ed479aa0eaa1296abbb1790571b08.bin
+    projectPath: Library/ShaderCache/0/061ed479aa0eaa1296abbb1790571b08.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/0/0844404501118750ecd14958a8912925.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/0/0844404501118750ecd14958a8912925.bin
+    projectPath: Library/ShaderCache/0/0844404501118750ecd14958a8912925.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/0/09c0c23a1c9a0e486dc3de60958d56c3.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/0/09c0c23a1c9a0e486dc3de60958d56c3.bin
+    projectPath: Library/ShaderCache/0/09c0c23a1c9a0e486dc3de60958d56c3.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/0/0bc73f999ad9ba69a185a3fca585fa3b.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/0/0bc73f999ad9ba69a185a3fca585fa3b.bin
+    projectPath: Library/ShaderCache/0/0bc73f999ad9ba69a185a3fca585fa3b.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/0/0bd29aaac44d19a86e2a7a1604f2b7f0.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/0/0bd29aaac44d19a86e2a7a1604f2b7f0.bin
+    projectPath: Library/ShaderCache/0/0bd29aaac44d19a86e2a7a1604f2b7f0.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/0/0d191cccae1d987a7bf3861f380b8f8b.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/0/0d191cccae1d987a7bf3861f380b8f8b.bin
+    projectPath: Library/ShaderCache/0/0d191cccae1d987a7bf3861f380b8f8b.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/1/11bcff412e3ef057230b9a9ff2f944b9.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/1/11bcff412e3ef057230b9a9ff2f944b9.bin
+    projectPath: Library/ShaderCache/1/11bcff412e3ef057230b9a9ff2f944b9.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/1/12ce33bd04363da5d3cf90b3f1772c7a.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/1/12ce33bd04363da5d3cf90b3f1772c7a.bin
+    projectPath: Library/ShaderCache/1/12ce33bd04363da5d3cf90b3f1772c7a.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/1/13856a85cad10122149d47784cd5c369.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/1/13856a85cad10122149d47784cd5c369.bin
+    projectPath: Library/ShaderCache/1/13856a85cad10122149d47784cd5c369.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/1/16e622c2d030605c0d1299b68b63086b.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/1/16e622c2d030605c0d1299b68b63086b.bin
+    projectPath: Library/ShaderCache/1/16e622c2d030605c0d1299b68b63086b.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/1/18bc649cc85ccb460b3b542aef8abe40.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/1/18bc649cc85ccb460b3b542aef8abe40.bin
+    projectPath: Library/ShaderCache/1/18bc649cc85ccb460b3b542aef8abe40.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/1/1a344e0d2f909ebb1da7629b57569aa6.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/1/1a344e0d2f909ebb1da7629b57569aa6.bin
+    projectPath: Library/ShaderCache/1/1a344e0d2f909ebb1da7629b57569aa6.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/1/1bd088df8eddf13a04400c4eae659066.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/1/1bd088df8eddf13a04400c4eae659066.bin
+    projectPath: Library/ShaderCache/1/1bd088df8eddf13a04400c4eae659066.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/1/1c51097cd2c1ca3b3275a60fc52e8bc7.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/1/1c51097cd2c1ca3b3275a60fc52e8bc7.bin
+    projectPath: Library/ShaderCache/1/1c51097cd2c1ca3b3275a60fc52e8bc7.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/1/1e09bef9ff8f2382f7ae493d0efed769.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/1/1e09bef9ff8f2382f7ae493d0efed769.bin
+    projectPath: Library/ShaderCache/1/1e09bef9ff8f2382f7ae493d0efed769.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/1/1eade8792364c39e6704b5566bbe2832.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/1/1eade8792364c39e6704b5566bbe2832.bin
+    projectPath: Library/ShaderCache/1/1eade8792364c39e6704b5566bbe2832.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/1/1f9b5ab12a384820f71c60cf6787fd23.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/1/1f9b5ab12a384820f71c60cf6787fd23.bin
+    projectPath: Library/ShaderCache/1/1f9b5ab12a384820f71c60cf6787fd23.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/1/1fc1c53b27b8f2cc41d319fb4e9c2144.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/1/1fc1c53b27b8f2cc41d319fb4e9c2144.bin
+    projectPath: Library/ShaderCache/1/1fc1c53b27b8f2cc41d319fb4e9c2144.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/1/1fc775574d8478d9096c40674cb5ecf8.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/1/1fc775574d8478d9096c40674cb5ecf8.bin
+    projectPath: Library/ShaderCache/1/1fc775574d8478d9096c40674cb5ecf8.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/1/1fed802163bdb4c0352e171d23011d00.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/1/1fed802163bdb4c0352e171d23011d00.bin
+    projectPath: Library/ShaderCache/1/1fed802163bdb4c0352e171d23011d00.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/2/20042919b14d7b1d9535193b89c7a944.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/2/20042919b14d7b1d9535193b89c7a944.bin
+    projectPath: Library/ShaderCache/2/20042919b14d7b1d9535193b89c7a944.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/2/21a1edf0e86a022b25007127d582e16b.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/2/21a1edf0e86a022b25007127d582e16b.bin
+    projectPath: Library/ShaderCache/2/21a1edf0e86a022b25007127d582e16b.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/2/243132fa40c856c0031b314bf8c1dd2f.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/2/243132fa40c856c0031b314bf8c1dd2f.bin
+    projectPath: Library/ShaderCache/2/243132fa40c856c0031b314bf8c1dd2f.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/2/24b628d390b27e6fbfcfb77a36edf776.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/2/24b628d390b27e6fbfcfb77a36edf776.bin
+    projectPath: Library/ShaderCache/2/24b628d390b27e6fbfcfb77a36edf776.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/2/25069635dc2d9cc4ede6c9daf7e538cf.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/2/25069635dc2d9cc4ede6c9daf7e538cf.bin
+    projectPath: Library/ShaderCache/2/25069635dc2d9cc4ede6c9daf7e538cf.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/2/27f7be1c09997aba142e97f0039ceab6.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/2/27f7be1c09997aba142e97f0039ceab6.bin
+    projectPath: Library/ShaderCache/2/27f7be1c09997aba142e97f0039ceab6.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/2/27fb4fabb3c2315775e5db3882f22ddf.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/2/27fb4fabb3c2315775e5db3882f22ddf.bin
+    projectPath: Library/ShaderCache/2/27fb4fabb3c2315775e5db3882f22ddf.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/2/286616a74741afcf086d3c959477d51f.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/2/286616a74741afcf086d3c959477d51f.bin
+    projectPath: Library/ShaderCache/2/286616a74741afcf086d3c959477d51f.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/2/2a6d76e634c324595fe894038199344b.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/2/2a6d76e634c324595fe894038199344b.bin
+    projectPath: Library/ShaderCache/2/2a6d76e634c324595fe894038199344b.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/2/2b7186cea3e16b09012bfd9a2eccdb74.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/2/2b7186cea3e16b09012bfd9a2eccdb74.bin
+    projectPath: Library/ShaderCache/2/2b7186cea3e16b09012bfd9a2eccdb74.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/2/2e02e07243825432984d013709cbec45.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/2/2e02e07243825432984d013709cbec45.bin
+    projectPath: Library/ShaderCache/2/2e02e07243825432984d013709cbec45.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/2/2e186401d13caeff6620d29bf5696dc4.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/2/2e186401d13caeff6620d29bf5696dc4.bin
+    projectPath: Library/ShaderCache/2/2e186401d13caeff6620d29bf5696dc4.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/2/2e981e06b27e9363b31fa5aa858b9d1e.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/2/2e981e06b27e9363b31fa5aa858b9d1e.bin
+    projectPath: Library/ShaderCache/2/2e981e06b27e9363b31fa5aa858b9d1e.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/2/2eb0c6cd14dc6257a667d59acd61af08.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/2/2eb0c6cd14dc6257a667d59acd61af08.bin
+    projectPath: Library/ShaderCache/2/2eb0c6cd14dc6257a667d59acd61af08.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/2/2efbcce210b36807e0ca5e96f2442564.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/2/2efbcce210b36807e0ca5e96f2442564.bin
+    projectPath: Library/ShaderCache/2/2efbcce210b36807e0ca5e96f2442564.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/2/2fd7429844b6bfb2021b98506a95df31.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/2/2fd7429844b6bfb2021b98506a95df31.bin
+    projectPath: Library/ShaderCache/2/2fd7429844b6bfb2021b98506a95df31.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/3/306c3f0bb589987c3601503c0698f933.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/3/306c3f0bb589987c3601503c0698f933.bin
+    projectPath: Library/ShaderCache/3/306c3f0bb589987c3601503c0698f933.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/3/317ebcd890a30acbc27695d6180c465a.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/3/317ebcd890a30acbc27695d6180c465a.bin
+    projectPath: Library/ShaderCache/3/317ebcd890a30acbc27695d6180c465a.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/3/32d8db7fbab0af4b89529079e3ec72d1.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/3/32d8db7fbab0af4b89529079e3ec72d1.bin
+    projectPath: Library/ShaderCache/3/32d8db7fbab0af4b89529079e3ec72d1.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/3/33d008e493e88010bb09a569289926bc.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/3/33d008e493e88010bb09a569289926bc.bin
+    projectPath: Library/ShaderCache/3/33d008e493e88010bb09a569289926bc.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/3/348cc0deff7dc719065338884a9df04e.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/3/348cc0deff7dc719065338884a9df04e.bin
+    projectPath: Library/ShaderCache/3/348cc0deff7dc719065338884a9df04e.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/3/35ed30d0eb721ae42fd57148c7182ea9.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/3/35ed30d0eb721ae42fd57148c7182ea9.bin
+    projectPath: Library/ShaderCache/3/35ed30d0eb721ae42fd57148c7182ea9.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/3/37368dc97c764578f0b60e271b14f1c6.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/3/37368dc97c764578f0b60e271b14f1c6.bin
+    projectPath: Library/ShaderCache/3/37368dc97c764578f0b60e271b14f1c6.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/3/389d2af8d4d15b3251de3db13a5a15a2.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/3/389d2af8d4d15b3251de3db13a5a15a2.bin
+    projectPath: Library/ShaderCache/3/389d2af8d4d15b3251de3db13a5a15a2.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/3/3a4629b2b38d535eade45ee891b821c1.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/3/3a4629b2b38d535eade45ee891b821c1.bin
+    projectPath: Library/ShaderCache/3/3a4629b2b38d535eade45ee891b821c1.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/3/3ba4918ca4144178aa3ff737a4dc0d4f.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/3/3ba4918ca4144178aa3ff737a4dc0d4f.bin
+    projectPath: Library/ShaderCache/3/3ba4918ca4144178aa3ff737a4dc0d4f.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/3/3cf36d980291e4d5261241d2fe22468a.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/3/3cf36d980291e4d5261241d2fe22468a.bin
+    projectPath: Library/ShaderCache/3/3cf36d980291e4d5261241d2fe22468a.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/3/3d3282aa262ce22a7d458a958e099f61.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/3/3d3282aa262ce22a7d458a958e099f61.bin
+    projectPath: Library/ShaderCache/3/3d3282aa262ce22a7d458a958e099f61.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/3/3d9d5a45f898ad2a4ed369a2bd7ce872.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/3/3d9d5a45f898ad2a4ed369a2bd7ce872.bin
+    projectPath: Library/ShaderCache/3/3d9d5a45f898ad2a4ed369a2bd7ce872.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/3/3fcf6fcfc1563ebd1f126c6992b76e19.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/3/3fcf6fcfc1563ebd1f126c6992b76e19.bin
+    projectPath: Library/ShaderCache/3/3fcf6fcfc1563ebd1f126c6992b76e19.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/4/4155487fca35313a86f7fd1132f6c2c9.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/4/4155487fca35313a86f7fd1132f6c2c9.bin
+    projectPath: Library/ShaderCache/4/4155487fca35313a86f7fd1132f6c2c9.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/4/41e5b38ce046593f6fc3f3b8e053e0a4.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/4/41e5b38ce046593f6fc3f3b8e053e0a4.bin
+    projectPath: Library/ShaderCache/4/41e5b38ce046593f6fc3f3b8e053e0a4.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/4/436a2c6cc698018591b61a6c1f54d266.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/4/436a2c6cc698018591b61a6c1f54d266.bin
+    projectPath: Library/ShaderCache/4/436a2c6cc698018591b61a6c1f54d266.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/4/448377aca8b2234f2647abd2bf4f95c8.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/4/448377aca8b2234f2647abd2bf4f95c8.bin
+    projectPath: Library/ShaderCache/4/448377aca8b2234f2647abd2bf4f95c8.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/4/458bef3608acc33c7bd9bc5ee2144050.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/4/458bef3608acc33c7bd9bc5ee2144050.bin
+    projectPath: Library/ShaderCache/4/458bef3608acc33c7bd9bc5ee2144050.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/4/463ce7368bfc636a7d2813d6b24bf6f5.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/4/463ce7368bfc636a7d2813d6b24bf6f5.bin
+    projectPath: Library/ShaderCache/4/463ce7368bfc636a7d2813d6b24bf6f5.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/4/464b3845c28fb2503cf1a3a95c9b74cf.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/4/464b3845c28fb2503cf1a3a95c9b74cf.bin
+    projectPath: Library/ShaderCache/4/464b3845c28fb2503cf1a3a95c9b74cf.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/4/46c421896e1aae20cb25521811e0011c.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/4/46c421896e1aae20cb25521811e0011c.bin
+    projectPath: Library/ShaderCache/4/46c421896e1aae20cb25521811e0011c.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/4/46f06ccc43b2164e5918e4d77a5d4e41.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/4/46f06ccc43b2164e5918e4d77a5d4e41.bin
+    projectPath: Library/ShaderCache/4/46f06ccc43b2164e5918e4d77a5d4e41.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/4/46f83c8206d11235b1b7d53d53652fe1.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/4/46f83c8206d11235b1b7d53d53652fe1.bin
+    projectPath: Library/ShaderCache/4/46f83c8206d11235b1b7d53d53652fe1.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/4/47783794d47cc2383c9d87e56b5ab34c.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/4/47783794d47cc2383c9d87e56b5ab34c.bin
+    projectPath: Library/ShaderCache/4/47783794d47cc2383c9d87e56b5ab34c.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/4/492ac104996bcbc2696646d2a3e44869.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/4/492ac104996bcbc2696646d2a3e44869.bin
+    projectPath: Library/ShaderCache/4/492ac104996bcbc2696646d2a3e44869.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/4/4a1edff6e50a19fcd808d0ad3a61faf2.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/4/4a1edff6e50a19fcd808d0ad3a61faf2.bin
+    projectPath: Library/ShaderCache/4/4a1edff6e50a19fcd808d0ad3a61faf2.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/4/4a67ee30a1f60605323dc7903a1a3f7a.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/4/4a67ee30a1f60605323dc7903a1a3f7a.bin
+    projectPath: Library/ShaderCache/4/4a67ee30a1f60605323dc7903a1a3f7a.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/4/4de74c7cb2970fe46012a4ff493bae37.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/4/4de74c7cb2970fe46012a4ff493bae37.bin
+    projectPath: Library/ShaderCache/4/4de74c7cb2970fe46012a4ff493bae37.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/4/4f2c0c7b3e85cead92f7626baecf40bb.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/4/4f2c0c7b3e85cead92f7626baecf40bb.bin
+    projectPath: Library/ShaderCache/4/4f2c0c7b3e85cead92f7626baecf40bb.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/5/508233f21670c9ef42b0c8de39eb4941.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/5/508233f21670c9ef42b0c8de39eb4941.bin
+    projectPath: Library/ShaderCache/5/508233f21670c9ef42b0c8de39eb4941.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/5/51e647c0849409bd5eded5d30fc1e66a.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/5/51e647c0849409bd5eded5d30fc1e66a.bin
+    projectPath: Library/ShaderCache/5/51e647c0849409bd5eded5d30fc1e66a.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/5/548351a655397275245ff74e3ddbd8f0.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/5/548351a655397275245ff74e3ddbd8f0.bin
+    projectPath: Library/ShaderCache/5/548351a655397275245ff74e3ddbd8f0.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/5/555818a443b660277c48f1364920481b.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/5/555818a443b660277c48f1364920481b.bin
+    projectPath: Library/ShaderCache/5/555818a443b660277c48f1364920481b.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/5/564fad3c5aa448a81bf684b533b3b5a5.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/5/564fad3c5aa448a81bf684b533b3b5a5.bin
+    projectPath: Library/ShaderCache/5/564fad3c5aa448a81bf684b533b3b5a5.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/5/56d7c05e36623412fda30c3f511fe7d3.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/5/56d7c05e36623412fda30c3f511fe7d3.bin
+    projectPath: Library/ShaderCache/5/56d7c05e36623412fda30c3f511fe7d3.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/5/58aa50bd5b88cfac1e5d3408a05efc53.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/5/58aa50bd5b88cfac1e5d3408a05efc53.bin
+    projectPath: Library/ShaderCache/5/58aa50bd5b88cfac1e5d3408a05efc53.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/5/594c943d31d7180c015c807e96dc6ff7.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/5/594c943d31d7180c015c807e96dc6ff7.bin
+    projectPath: Library/ShaderCache/5/594c943d31d7180c015c807e96dc6ff7.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/5/5b50e0548aabc23db89bc0b00284de58.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/5/5b50e0548aabc23db89bc0b00284de58.bin
+    projectPath: Library/ShaderCache/5/5b50e0548aabc23db89bc0b00284de58.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/5/5cdbfd06976053151f862f069e881029.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/5/5cdbfd06976053151f862f069e881029.bin
+    projectPath: Library/ShaderCache/5/5cdbfd06976053151f862f069e881029.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/5/5d2f283c364fbd033b6d75c9846518b0.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/5/5d2f283c364fbd033b6d75c9846518b0.bin
+    projectPath: Library/ShaderCache/5/5d2f283c364fbd033b6d75c9846518b0.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/5/5dace6dedae08237d8c7e443735c3bb5.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/5/5dace6dedae08237d8c7e443735c3bb5.bin
+    projectPath: Library/ShaderCache/5/5dace6dedae08237d8c7e443735c3bb5.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/5/5e1c2b83cb3ba5a6e87ed9b320adaa9b.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/5/5e1c2b83cb3ba5a6e87ed9b320adaa9b.bin
+    projectPath: Library/ShaderCache/5/5e1c2b83cb3ba5a6e87ed9b320adaa9b.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/5/5f73c41d5041c357baa5efd242481b90.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/5/5f73c41d5041c357baa5efd242481b90.bin
+    projectPath: Library/ShaderCache/5/5f73c41d5041c357baa5efd242481b90.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/6/6126ba527d5af14894c3d4d410782367.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/6/6126ba527d5af14894c3d4d410782367.bin
+    projectPath: Library/ShaderCache/6/6126ba527d5af14894c3d4d410782367.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/6/62122ce86e43f109141cc6a289ad4d31.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/6/62122ce86e43f109141cc6a289ad4d31.bin
+    projectPath: Library/ShaderCache/6/62122ce86e43f109141cc6a289ad4d31.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/6/623dc5833037446d8150018d7b1eba5a.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/6/623dc5833037446d8150018d7b1eba5a.bin
+    projectPath: Library/ShaderCache/6/623dc5833037446d8150018d7b1eba5a.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/6/62813f853530ebb324eeeebdb8bd6a25.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/6/62813f853530ebb324eeeebdb8bd6a25.bin
+    projectPath: Library/ShaderCache/6/62813f853530ebb324eeeebdb8bd6a25.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/6/62afcfcfd010ebe737fe79bc4f0e2ce4.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/6/62afcfcfd010ebe737fe79bc4f0e2ce4.bin
+    projectPath: Library/ShaderCache/6/62afcfcfd010ebe737fe79bc4f0e2ce4.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/6/62ba3308041a1099752bf7818be532ed.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/6/62ba3308041a1099752bf7818be532ed.bin
+    projectPath: Library/ShaderCache/6/62ba3308041a1099752bf7818be532ed.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/6/6327713644619f20ce12f9f677b8e13b.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/6/6327713644619f20ce12f9f677b8e13b.bin
+    projectPath: Library/ShaderCache/6/6327713644619f20ce12f9f677b8e13b.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/6/65f6458cf8c489579e4d256b421d5c98.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/6/65f6458cf8c489579e4d256b421d5c98.bin
+    projectPath: Library/ShaderCache/6/65f6458cf8c489579e4d256b421d5c98.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/6/67de0f5b230240f8a5770152e2f2d8b3.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/6/67de0f5b230240f8a5770152e2f2d8b3.bin
+    projectPath: Library/ShaderCache/6/67de0f5b230240f8a5770152e2f2d8b3.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/6/680aecb3a8d1e3629252a184b36cef79.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/6/680aecb3a8d1e3629252a184b36cef79.bin
+    projectPath: Library/ShaderCache/6/680aecb3a8d1e3629252a184b36cef79.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/6/681738c533172bc1dc33aed35e81f846.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/6/681738c533172bc1dc33aed35e81f846.bin
+    projectPath: Library/ShaderCache/6/681738c533172bc1dc33aed35e81f846.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/6/69064eb28cf2a4392821a09a830d70f9.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/6/69064eb28cf2a4392821a09a830d70f9.bin
+    projectPath: Library/ShaderCache/6/69064eb28cf2a4392821a09a830d70f9.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/6/693d6b0e4a516c55fdac06f8356cc667.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/6/693d6b0e4a516c55fdac06f8356cc667.bin
+    projectPath: Library/ShaderCache/6/693d6b0e4a516c55fdac06f8356cc667.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/6/69706c36022abeb67067e33d9e0f70ce.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/6/69706c36022abeb67067e33d9e0f70ce.bin
+    projectPath: Library/ShaderCache/6/69706c36022abeb67067e33d9e0f70ce.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/6/69b15b5930cc1acda9877127cea634ae.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/6/69b15b5930cc1acda9877127cea634ae.bin
+    projectPath: Library/ShaderCache/6/69b15b5930cc1acda9877127cea634ae.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/6/6aee67ee9f09a286e07b3103cc94fe38.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/6/6aee67ee9f09a286e07b3103cc94fe38.bin
+    projectPath: Library/ShaderCache/6/6aee67ee9f09a286e07b3103cc94fe38.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/6/6d680c6dac44aaddd42dd32bd66bf58d.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/6/6d680c6dac44aaddd42dd32bd66bf58d.bin
+    projectPath: Library/ShaderCache/6/6d680c6dac44aaddd42dd32bd66bf58d.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/6/6e209871f5038fc64eda460f4398cc6b.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/6/6e209871f5038fc64eda460f4398cc6b.bin
+    projectPath: Library/ShaderCache/6/6e209871f5038fc64eda460f4398cc6b.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/6/6eb84345b8217c63d0e0dd3868689bcd.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/6/6eb84345b8217c63d0e0dd3868689bcd.bin
+    projectPath: Library/ShaderCache/6/6eb84345b8217c63d0e0dd3868689bcd.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/7/707822a9fe74ed6adc616014c08fc9e8.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/7/707822a9fe74ed6adc616014c08fc9e8.bin
+    projectPath: Library/ShaderCache/7/707822a9fe74ed6adc616014c08fc9e8.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/7/71caf9e32e92bacad6d67443488392ec.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/7/71caf9e32e92bacad6d67443488392ec.bin
+    projectPath: Library/ShaderCache/7/71caf9e32e92bacad6d67443488392ec.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/7/72167ba7c6639273f6c792c9d4c7d7de.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/7/72167ba7c6639273f6c792c9d4c7d7de.bin
+    projectPath: Library/ShaderCache/7/72167ba7c6639273f6c792c9d4c7d7de.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/7/74d337c9ee556b896e163cc5e2bdcb0a.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/7/74d337c9ee556b896e163cc5e2bdcb0a.bin
+    projectPath: Library/ShaderCache/7/74d337c9ee556b896e163cc5e2bdcb0a.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/7/74dccbceb0b9a3fb94a8416194d9ef74.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/7/74dccbceb0b9a3fb94a8416194d9ef74.bin
+    projectPath: Library/ShaderCache/7/74dccbceb0b9a3fb94a8416194d9ef74.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/7/76d385bae022be87cd5f19fef837c745.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/7/76d385bae022be87cd5f19fef837c745.bin
+    projectPath: Library/ShaderCache/7/76d385bae022be87cd5f19fef837c745.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/7/7aff635a5c5564086044dba55cdc9b2c.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/7/7aff635a5c5564086044dba55cdc9b2c.bin
+    projectPath: Library/ShaderCache/7/7aff635a5c5564086044dba55cdc9b2c.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/7/7d17e639007a018e3e4c467cd13c9581.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/7/7d17e639007a018e3e4c467cd13c9581.bin
+    projectPath: Library/ShaderCache/7/7d17e639007a018e3e4c467cd13c9581.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/7/7d81b5ab234dde85d2bde2298dd1a051.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/7/7d81b5ab234dde85d2bde2298dd1a051.bin
+    projectPath: Library/ShaderCache/7/7d81b5ab234dde85d2bde2298dd1a051.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/7/7e30d46635a75ebe32ee19d7c8f5a47f.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/7/7e30d46635a75ebe32ee19d7c8f5a47f.bin
+    projectPath: Library/ShaderCache/7/7e30d46635a75ebe32ee19d7c8f5a47f.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/7/7e5904f9582bc5482b297dc0378ca87a.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/7/7e5904f9582bc5482b297dc0378ca87a.bin
+    projectPath: Library/ShaderCache/7/7e5904f9582bc5482b297dc0378ca87a.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/7/7ed8142e1c276401845f587d0fe64fc5.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/7/7ed8142e1c276401845f587d0fe64fc5.bin
+    projectPath: Library/ShaderCache/7/7ed8142e1c276401845f587d0fe64fc5.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/7/7ee660e7f09a21a8f6b80966f8ba57c8.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/7/7ee660e7f09a21a8f6b80966f8ba57c8.bin
+    projectPath: Library/ShaderCache/7/7ee660e7f09a21a8f6b80966f8ba57c8.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/7/7f0e378f05eebfda2c9e9205e3e24e47.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/7/7f0e378f05eebfda2c9e9205e3e24e47.bin
+    projectPath: Library/ShaderCache/7/7f0e378f05eebfda2c9e9205e3e24e47.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/7/7f22ac0f15d84a1d13bc598c606ab65a.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/7/7f22ac0f15d84a1d13bc598c606ab65a.bin
+    projectPath: Library/ShaderCache/7/7f22ac0f15d84a1d13bc598c606ab65a.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/8/80727b7dae1a4c053e5b69ec52e3bbd9.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/8/80727b7dae1a4c053e5b69ec52e3bbd9.bin
+    projectPath: Library/ShaderCache/8/80727b7dae1a4c053e5b69ec52e3bbd9.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/8/81921b3dfa7a2c90d67867a91a5c2b9c.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/8/81921b3dfa7a2c90d67867a91a5c2b9c.bin
+    projectPath: Library/ShaderCache/8/81921b3dfa7a2c90d67867a91a5c2b9c.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/8/8f1c8af8e8a7035081a49ab478546c2b.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/8/8f1c8af8e8a7035081a49ab478546c2b.bin
+    projectPath: Library/ShaderCache/8/8f1c8af8e8a7035081a49ab478546c2b.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/8/8fc99dcb3e6d964615036c54b474d3e2.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/8/8fc99dcb3e6d964615036c54b474d3e2.bin
+    projectPath: Library/ShaderCache/8/8fc99dcb3e6d964615036c54b474d3e2.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/9/900bd2a8b313f59a95cbb2b488a2b9d1.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/9/900bd2a8b313f59a95cbb2b488a2b9d1.bin
+    projectPath: Library/ShaderCache/9/900bd2a8b313f59a95cbb2b488a2b9d1.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/9/9271fb5cdcd964ade141def19ba2a4a3.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/9/9271fb5cdcd964ade141def19ba2a4a3.bin
+    projectPath: Library/ShaderCache/9/9271fb5cdcd964ade141def19ba2a4a3.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/9/931ab34c713f5b05e889698271b81e03.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/9/931ab34c713f5b05e889698271b81e03.bin
+    projectPath: Library/ShaderCache/9/931ab34c713f5b05e889698271b81e03.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/9/93e48057737b6f217181d487e8fd59a6.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/9/93e48057737b6f217181d487e8fd59a6.bin
+    projectPath: Library/ShaderCache/9/93e48057737b6f217181d487e8fd59a6.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/9/94398bdfa31aaaaedb7ae379853c7183.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/9/94398bdfa31aaaaedb7ae379853c7183.bin
+    projectPath: Library/ShaderCache/9/94398bdfa31aaaaedb7ae379853c7183.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/9/958487448a57d92afa0d36f49853ba60.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/9/958487448a57d92afa0d36f49853ba60.bin
+    projectPath: Library/ShaderCache/9/958487448a57d92afa0d36f49853ba60.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/9/95ba9c478b6db4cb9a5c776a3b2c3c02.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/9/95ba9c478b6db4cb9a5c776a3b2c3c02.bin
+    projectPath: Library/ShaderCache/9/95ba9c478b6db4cb9a5c776a3b2c3c02.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/9/96514dd44e3ecb03bc8fd87cbb4ee3a8.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/9/96514dd44e3ecb03bc8fd87cbb4ee3a8.bin
+    projectPath: Library/ShaderCache/9/96514dd44e3ecb03bc8fd87cbb4ee3a8.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/9/9897d62a8a31cf61e29c154f2fe13efa.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/9/9897d62a8a31cf61e29c154f2fe13efa.bin
+    projectPath: Library/ShaderCache/9/9897d62a8a31cf61e29c154f2fe13efa.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/9/9a9eaa05903f0564fe4bda9323f68f61.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/9/9a9eaa05903f0564fe4bda9323f68f61.bin
+    projectPath: Library/ShaderCache/9/9a9eaa05903f0564fe4bda9323f68f61.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/9/9b0b429172677dbfd6f692cd9e7dedbb.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/9/9b0b429172677dbfd6f692cd9e7dedbb.bin
+    projectPath: Library/ShaderCache/9/9b0b429172677dbfd6f692cd9e7dedbb.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/9/9b56654c54beff0835e2a3b360462faa.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/9/9b56654c54beff0835e2a3b360462faa.bin
+    projectPath: Library/ShaderCache/9/9b56654c54beff0835e2a3b360462faa.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/a/a42c0ae334c606f1052dffb741132d60.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/a/a42c0ae334c606f1052dffb741132d60.bin
+    projectPath: Library/ShaderCache/a/a42c0ae334c606f1052dffb741132d60.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/a/a8ccc8dd9999887c4181c8e6bf01e5bd.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/a/a8ccc8dd9999887c4181c8e6bf01e5bd.bin
+    projectPath: Library/ShaderCache/a/a8ccc8dd9999887c4181c8e6bf01e5bd.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/a/a9d804ffc34497cca7b1c6894a5bb46d.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/a/a9d804ffc34497cca7b1c6894a5bb46d.bin
+    projectPath: Library/ShaderCache/a/a9d804ffc34497cca7b1c6894a5bb46d.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/a/ad25def01cbf59f05b0bf58c4bf5e720.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/a/ad25def01cbf59f05b0bf58c4bf5e720.bin
+    projectPath: Library/ShaderCache/a/ad25def01cbf59f05b0bf58c4bf5e720.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/a/aed949e25bd3d07b6b1988b61ade910c.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/a/aed949e25bd3d07b6b1988b61ade910c.bin
+    projectPath: Library/ShaderCache/a/aed949e25bd3d07b6b1988b61ade910c.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/a/af3c070a32ea795e2ffd6ae00cbf740e.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/a/af3c070a32ea795e2ffd6ae00cbf740e.bin
+    projectPath: Library/ShaderCache/a/af3c070a32ea795e2ffd6ae00cbf740e.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/b/b03649b788566e23a11d971a0b028db1.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/b/b03649b788566e23a11d971a0b028db1.bin
+    projectPath: Library/ShaderCache/b/b03649b788566e23a11d971a0b028db1.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/b/b07dd03a9ede4abf2f54af5d5d331279.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/b/b07dd03a9ede4abf2f54af5d5d331279.bin
+    projectPath: Library/ShaderCache/b/b07dd03a9ede4abf2f54af5d5d331279.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/b/b2612c1f2cbffcf02c8cf6b6317fa90c.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/b/b2612c1f2cbffcf02c8cf6b6317fa90c.bin
+    projectPath: Library/ShaderCache/b/b2612c1f2cbffcf02c8cf6b6317fa90c.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/b/b53fc17df3af1e7d7d6f71f562ad4282.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/b/b53fc17df3af1e7d7d6f71f562ad4282.bin
+    projectPath: Library/ShaderCache/b/b53fc17df3af1e7d7d6f71f562ad4282.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/b/b5843051dd1b91e13c1a266f826d518b.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/b/b5843051dd1b91e13c1a266f826d518b.bin
+    projectPath: Library/ShaderCache/b/b5843051dd1b91e13c1a266f826d518b.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/b/b58b357d7330922bc6affbc7d97c8156.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/b/b58b357d7330922bc6affbc7d97c8156.bin
+    projectPath: Library/ShaderCache/b/b58b357d7330922bc6affbc7d97c8156.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/b/b679b77e58e99d0a0d37d7840325bd82.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/b/b679b77e58e99d0a0d37d7840325bd82.bin
+    projectPath: Library/ShaderCache/b/b679b77e58e99d0a0d37d7840325bd82.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/b/b73ba881dd4a1383a24f994e43d70aa1.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/b/b73ba881dd4a1383a24f994e43d70aa1.bin
+    projectPath: Library/ShaderCache/b/b73ba881dd4a1383a24f994e43d70aa1.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/b/b9d924dac19f55760e6f1d70e00842a8.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/b/b9d924dac19f55760e6f1d70e00842a8.bin
+    projectPath: Library/ShaderCache/b/b9d924dac19f55760e6f1d70e00842a8.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/b/bcf70ca0afa36d8a3bb8da9a608f2340.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/b/bcf70ca0afa36d8a3bb8da9a608f2340.bin
+    projectPath: Library/ShaderCache/b/bcf70ca0afa36d8a3bb8da9a608f2340.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/b/bd363deaf7b622532686d1cf2f341c0d.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/b/bd363deaf7b622532686d1cf2f341c0d.bin
+    projectPath: Library/ShaderCache/b/bd363deaf7b622532686d1cf2f341c0d.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/b/be98419c728e97a5ac183938a95b6642.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/b/be98419c728e97a5ac183938a95b6642.bin
+    projectPath: Library/ShaderCache/b/be98419c728e97a5ac183938a95b6642.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/c/c4e7ede7516a0cc3c27ed0c2dfe76bb2.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/c/c4e7ede7516a0cc3c27ed0c2dfe76bb2.bin
+    projectPath: Library/ShaderCache/c/c4e7ede7516a0cc3c27ed0c2dfe76bb2.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/c/c563bb917028bee15dc46f9fb326ee86.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/c/c563bb917028bee15dc46f9fb326ee86.bin
+    projectPath: Library/ShaderCache/c/c563bb917028bee15dc46f9fb326ee86.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/c/c622ffeded96bc9294329e39336a8e5d.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/c/c622ffeded96bc9294329e39336a8e5d.bin
+    projectPath: Library/ShaderCache/c/c622ffeded96bc9294329e39336a8e5d.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/c/c6553e00c19b6cc14a7e3829b0b39114.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/c/c6553e00c19b6cc14a7e3829b0b39114.bin
+    projectPath: Library/ShaderCache/c/c6553e00c19b6cc14a7e3829b0b39114.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/c/c7604fd7e7a20f8f97945db6c9c97a10.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/c/c7604fd7e7a20f8f97945db6c9c97a10.bin
+    projectPath: Library/ShaderCache/c/c7604fd7e7a20f8f97945db6c9c97a10.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/c/cb4e20a152b918b7837315c29f0abade.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/c/cb4e20a152b918b7837315c29f0abade.bin
+    projectPath: Library/ShaderCache/c/cb4e20a152b918b7837315c29f0abade.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/c/ccfa9d04554e97b965a68d00339d079f.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/c/ccfa9d04554e97b965a68d00339d079f.bin
+    projectPath: Library/ShaderCache/c/ccfa9d04554e97b965a68d00339d079f.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/c/cd0c283a8dfa17734820c3fa6f86a974.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/c/cd0c283a8dfa17734820c3fa6f86a974.bin
+    projectPath: Library/ShaderCache/c/cd0c283a8dfa17734820c3fa6f86a974.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/c/ce424204b1c200bb34c68eec38aad800.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/c/ce424204b1c200bb34c68eec38aad800.bin
+    projectPath: Library/ShaderCache/c/ce424204b1c200bb34c68eec38aad800.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/c/cf925f3d429e8a311304f8c301141af5.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/c/cf925f3d429e8a311304f8c301141af5.bin
+    projectPath: Library/ShaderCache/c/cf925f3d429e8a311304f8c301141af5.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/d/d2fd341c41e8658056c2753fdb20c0ef.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/d/d2fd341c41e8658056c2753fdb20c0ef.bin
+    projectPath: Library/ShaderCache/d/d2fd341c41e8658056c2753fdb20c0ef.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/d/d352e9a2105fe8e4d827466f9b43723d.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/d/d352e9a2105fe8e4d827466f9b43723d.bin
+    projectPath: Library/ShaderCache/d/d352e9a2105fe8e4d827466f9b43723d.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/d/d58e506564ea3c43646bcda22169ee17.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/d/d58e506564ea3c43646bcda22169ee17.bin
+    projectPath: Library/ShaderCache/d/d58e506564ea3c43646bcda22169ee17.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/d/d63ea416177396478ada9c9a4591e7f9.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/d/d63ea416177396478ada9c9a4591e7f9.bin
+    projectPath: Library/ShaderCache/d/d63ea416177396478ada9c9a4591e7f9.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/d/d67a6c27fc84f39ae3f08beef2d7b464.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/d/d67a6c27fc84f39ae3f08beef2d7b464.bin
+    projectPath: Library/ShaderCache/d/d67a6c27fc84f39ae3f08beef2d7b464.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/d/d764f1b8087dd792ab4e62fa70d3585b.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/d/d764f1b8087dd792ab4e62fa70d3585b.bin
+    projectPath: Library/ShaderCache/d/d764f1b8087dd792ab4e62fa70d3585b.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/d/d8714a66fc4dcd77ceb0c50fd224f877.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/d/d8714a66fc4dcd77ceb0c50fd224f877.bin
+    projectPath: Library/ShaderCache/d/d8714a66fc4dcd77ceb0c50fd224f877.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/d/d9d71948924f9df5b39c06ba0d36c46c.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/d/d9d71948924f9df5b39c06ba0d36c46c.bin
+    projectPath: Library/ShaderCache/d/d9d71948924f9df5b39c06ba0d36c46c.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/d/db19e3843ebb1d1149e580c44d73fc41.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/d/db19e3843ebb1d1149e580c44d73fc41.bin
+    projectPath: Library/ShaderCache/d/db19e3843ebb1d1149e580c44d73fc41.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/d/db9ec0fbba287cd6731686bebf7ad3d6.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/d/db9ec0fbba287cd6731686bebf7ad3d6.bin
+    projectPath: Library/ShaderCache/d/db9ec0fbba287cd6731686bebf7ad3d6.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/d/dbd81549d869a9e986cd8bf7535ab4ce.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/d/dbd81549d869a9e986cd8bf7535ab4ce.bin
+    projectPath: Library/ShaderCache/d/dbd81549d869a9e986cd8bf7535ab4ce.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/d/dc51dc8b57c11223d7cdc5b53822a735.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/d/dc51dc8b57c11223d7cdc5b53822a735.bin
+    projectPath: Library/ShaderCache/d/dc51dc8b57c11223d7cdc5b53822a735.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/d/dcbdd274b177efe71129e7a0ccbc301c.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/d/dcbdd274b177efe71129e7a0ccbc301c.bin
+    projectPath: Library/ShaderCache/d/dcbdd274b177efe71129e7a0ccbc301c.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/d/dcec2f48ef1eb51945b8b2e6a00dd338.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/d/dcec2f48ef1eb51945b8b2e6a00dd338.bin
+    projectPath: Library/ShaderCache/d/dcec2f48ef1eb51945b8b2e6a00dd338.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/e/e206c7b9733405aba46edf2c85f4d12e.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/e/e206c7b9733405aba46edf2c85f4d12e.bin
+    projectPath: Library/ShaderCache/e/e206c7b9733405aba46edf2c85f4d12e.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/e/e2aaabcd5257124035fd24d38e4dc092.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/e/e2aaabcd5257124035fd24d38e4dc092.bin
+    projectPath: Library/ShaderCache/e/e2aaabcd5257124035fd24d38e4dc092.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/e/e3ee657465c2915a76bf37e31cebdae6.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/e/e3ee657465c2915a76bf37e31cebdae6.bin
+    projectPath: Library/ShaderCache/e/e3ee657465c2915a76bf37e31cebdae6.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/e/e3ef9e29e7befcb7133b9e7616f77371.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/e/e3ef9e29e7befcb7133b9e7616f77371.bin
+    projectPath: Library/ShaderCache/e/e3ef9e29e7befcb7133b9e7616f77371.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/e/e439435f1d1f79fe477dcf9693a27378.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/e/e439435f1d1f79fe477dcf9693a27378.bin
+    projectPath: Library/ShaderCache/e/e439435f1d1f79fe477dcf9693a27378.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/e/e554bcbed71ba9681702c11bdebe8b7f.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/e/e554bcbed71ba9681702c11bdebe8b7f.bin
+    projectPath: Library/ShaderCache/e/e554bcbed71ba9681702c11bdebe8b7f.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/e/e600a76f4930c8c130631af8c10535d1.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/e/e600a76f4930c8c130631af8c10535d1.bin
+    projectPath: Library/ShaderCache/e/e600a76f4930c8c130631af8c10535d1.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/e/e6e006d23a533fac42b1e9e1edd3c710.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/e/e6e006d23a533fac42b1e9e1edd3c710.bin
+    projectPath: Library/ShaderCache/e/e6e006d23a533fac42b1e9e1edd3c710.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/e/e71955468ecd5e692bb2603038bfe87e.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/e/e71955468ecd5e692bb2603038bfe87e.bin
+    projectPath: Library/ShaderCache/e/e71955468ecd5e692bb2603038bfe87e.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/e/e719cfafa5dd73763daf7971e940fd1e.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/e/e719cfafa5dd73763daf7971e940fd1e.bin
+    projectPath: Library/ShaderCache/e/e719cfafa5dd73763daf7971e940fd1e.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/e/e7d49a607e23ac44c218454fe15a2dc0.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/e/e7d49a607e23ac44c218454fe15a2dc0.bin
+    projectPath: Library/ShaderCache/e/e7d49a607e23ac44c218454fe15a2dc0.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/e/e86bc1e413fc56fd8ec71089f5831e9a.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/e/e86bc1e413fc56fd8ec71089f5831e9a.bin
+    projectPath: Library/ShaderCache/e/e86bc1e413fc56fd8ec71089f5831e9a.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/e/e8fb03a9fc991656b4987e77ba1b4989.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/e/e8fb03a9fc991656b4987e77ba1b4989.bin
+    projectPath: Library/ShaderCache/e/e8fb03a9fc991656b4987e77ba1b4989.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/e/e9db9e5f3123eb9ade87a4aa58c297f3.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/e/e9db9e5f3123eb9ade87a4aa58c297f3.bin
+    projectPath: Library/ShaderCache/e/e9db9e5f3123eb9ade87a4aa58c297f3.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/e/ea7f0b3f8c52a333ad1f7eda0224f1be.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/e/ea7f0b3f8c52a333ad1f7eda0224f1be.bin
+    projectPath: Library/ShaderCache/e/ea7f0b3f8c52a333ad1f7eda0224f1be.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/e/eaffdbb02b918545458ab2a67b933dca.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/e/eaffdbb02b918545458ab2a67b933dca.bin
+    projectPath: Library/ShaderCache/e/eaffdbb02b918545458ab2a67b933dca.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/e/ebd497718cdd0e942e4843bc1ed151b5.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/e/ebd497718cdd0e942e4843bc1ed151b5.bin
+    projectPath: Library/ShaderCache/e/ebd497718cdd0e942e4843bc1ed151b5.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/e/ebfe508e09f976c474d315b3db96b779.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/e/ebfe508e09f976c474d315b3db96b779.bin
+    projectPath: Library/ShaderCache/e/ebfe508e09f976c474d315b3db96b779.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/e/ed4c04f600f9b7fed0d7cdf86c645e91.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/e/ed4c04f600f9b7fed0d7cdf86c645e91.bin
+    projectPath: Library/ShaderCache/e/ed4c04f600f9b7fed0d7cdf86c645e91.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/e/ee310173fb27bf496b43775373a465f8.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/e/ee310173fb27bf496b43775373a465f8.bin
+    projectPath: Library/ShaderCache/e/ee310173fb27bf496b43775373a465f8.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/e/ee726f7c9a4991255b7395dd12eba680.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/e/ee726f7c9a4991255b7395dd12eba680.bin
+    projectPath: Library/ShaderCache/e/ee726f7c9a4991255b7395dd12eba680.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/e/efba3f9ab1f2bdedb74649d39c032279.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/e/efba3f9ab1f2bdedb74649d39c032279.bin
+    projectPath: Library/ShaderCache/e/efba3f9ab1f2bdedb74649d39c032279.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/e/eff874cbecc612ce1871674e75d2329a.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/e/eff874cbecc612ce1871674e75d2329a.bin
+    projectPath: Library/ShaderCache/e/eff874cbecc612ce1871674e75d2329a.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/f/f0ddf097199ae833cb67906e9cd6ede8.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/f/f0ddf097199ae833cb67906e9cd6ede8.bin
+    projectPath: Library/ShaderCache/f/f0ddf097199ae833cb67906e9cd6ede8.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/f/f4b041b44332a8039e071f1f24c6e3a6.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/f/f4b041b44332a8039e071f1f24c6e3a6.bin
+    projectPath: Library/ShaderCache/f/f4b041b44332a8039e071f1f24c6e3a6.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/f/ff47e579446aad73b14dca1dd040aafe.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/f/ff47e579446aad73b14dca1dd040aafe.bin
+    projectPath: Library/ShaderCache/f/ff47e579446aad73b14dca1dd040aafe.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/f/ff5cf52f051ce0f3bc5f7d290464789d.bin
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/ShaderCache/f/ff5cf52f051ce0f3bc5f7d290464789d.bin
+    projectPath: Library/ShaderCache/f/ff5cf52f051ce0f3bc5f7d290464789d.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/shadercompiler-UnityShaderCompiler0.log
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/shadercompiler-UnityShaderCompiler0.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler0.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/shadercompiler-UnityShaderCompiler1.log
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/shadercompiler-UnityShaderCompiler1.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler1.log
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/shadercompiler-UnityShaderCompiler2.log
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/shadercompiler-UnityShaderCompiler2.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler2.log
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/shadercompiler-UnityShaderCompiler3.log
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Library/shadercompiler-UnityShaderCompiler3.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler3.log
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/__Backupscenes/0.backup
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/__Backupscenes/0.backup
+    projectPath: Temp/__Backupscenes/0.backup
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Compiled-ProBuilder-Standard Vertex Color.shader
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/Compiled-ProBuilder-Standard
+      Vertex Color.shader
+    projectPath: Temp/Compiled-ProBuilder-Standard Vertex Color.shader
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/input-0b32fc21d0e484c29a2768e41370b8ed.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/input-0b32fc21d0e484c29a2768e41370b8ed.unwrap
+    projectPath: Temp/input-0b32fc21d0e484c29a2768e41370b8ed.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/input-0d569380a566b4bb1a6d90bcfc30ee7c.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/input-0d569380a566b4bb1a6d90bcfc30ee7c.unwrap
+    projectPath: Temp/input-0d569380a566b4bb1a6d90bcfc30ee7c.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/input-17c35ea59346a4866b29fa276a3f6eb3.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/input-17c35ea59346a4866b29fa276a3f6eb3.unwrap
+    projectPath: Temp/input-17c35ea59346a4866b29fa276a3f6eb3.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/input-19b912e3a1ff94098a16e5065f85e6af.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/input-19b912e3a1ff94098a16e5065f85e6af.unwrap
+    projectPath: Temp/input-19b912e3a1ff94098a16e5065f85e6af.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/input-262f5c399b11c44e6874c7ddae03620d.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/input-262f5c399b11c44e6874c7ddae03620d.unwrap
+    projectPath: Temp/input-262f5c399b11c44e6874c7ddae03620d.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/input-27b945acfa7f74e47b0840d98b8ea6c6.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/input-27b945acfa7f74e47b0840d98b8ea6c6.unwrap
+    projectPath: Temp/input-27b945acfa7f74e47b0840d98b8ea6c6.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/input-289934923d38b408aa9f988f80b9e16e.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/input-289934923d38b408aa9f988f80b9e16e.unwrap
+    projectPath: Temp/input-289934923d38b408aa9f988f80b9e16e.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/input-4392afe1d391b4d3e9bc70c34aaa7bc1.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/input-4392afe1d391b4d3e9bc70c34aaa7bc1.unwrap
+    projectPath: Temp/input-4392afe1d391b4d3e9bc70c34aaa7bc1.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/input-43d9db5da24e5426bad59b9df6cc59c0.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/input-43d9db5da24e5426bad59b9df6cc59c0.unwrap
+    projectPath: Temp/input-43d9db5da24e5426bad59b9df6cc59c0.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/input-44697fe65ba9b40a09954285f0579df5.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/input-44697fe65ba9b40a09954285f0579df5.unwrap
+    projectPath: Temp/input-44697fe65ba9b40a09954285f0579df5.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/input-44d5bd5122716479898768791356edef.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/input-44d5bd5122716479898768791356edef.unwrap
+    projectPath: Temp/input-44d5bd5122716479898768791356edef.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/input-48934bdad46614f6187bf1b2e4ded393.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/input-48934bdad46614f6187bf1b2e4ded393.unwrap
+    projectPath: Temp/input-48934bdad46614f6187bf1b2e4ded393.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/input-56b4403b8e5614dedb25bb2b40a74004.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/input-56b4403b8e5614dedb25bb2b40a74004.unwrap
+    projectPath: Temp/input-56b4403b8e5614dedb25bb2b40a74004.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/input-60e5869df37664f63a5ac565c439b027.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/input-60e5869df37664f63a5ac565c439b027.unwrap
+    projectPath: Temp/input-60e5869df37664f63a5ac565c439b027.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/input-66a7f4fa4e2bf4d15a9a39d218714890.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/input-66a7f4fa4e2bf4d15a9a39d218714890.unwrap
+    projectPath: Temp/input-66a7f4fa4e2bf4d15a9a39d218714890.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/input-682e2c9cebb044691bcdbaf02ad3badf.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/input-682e2c9cebb044691bcdbaf02ad3badf.unwrap
+    projectPath: Temp/input-682e2c9cebb044691bcdbaf02ad3badf.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/input-68df4c26e83684ac1865ca22d01e0406.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/input-68df4c26e83684ac1865ca22d01e0406.unwrap
+    projectPath: Temp/input-68df4c26e83684ac1865ca22d01e0406.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/input-6be22987052d94f3f9c81e084216fd4b.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/input-6be22987052d94f3f9c81e084216fd4b.unwrap
+    projectPath: Temp/input-6be22987052d94f3f9c81e084216fd4b.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/input-75a95e6d9a129463984a3064ac1e2100.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/input-75a95e6d9a129463984a3064ac1e2100.unwrap
+    projectPath: Temp/input-75a95e6d9a129463984a3064ac1e2100.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/input-8015ed7ce979a48389ed6519a3f7cc9e.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/input-8015ed7ce979a48389ed6519a3f7cc9e.unwrap
+    projectPath: Temp/input-8015ed7ce979a48389ed6519a3f7cc9e.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/input-83b0118fbda3040b2a8a247bc12dbd2b.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/input-83b0118fbda3040b2a8a247bc12dbd2b.unwrap
+    projectPath: Temp/input-83b0118fbda3040b2a8a247bc12dbd2b.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/input-91fb2f44875884e9b8bb03f5d5103fd0.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/input-91fb2f44875884e9b8bb03f5d5103fd0.unwrap
+    projectPath: Temp/input-91fb2f44875884e9b8bb03f5d5103fd0.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/input-92027dd6ec046453bbc064d3557e17e9.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/input-92027dd6ec046453bbc064d3557e17e9.unwrap
+    projectPath: Temp/input-92027dd6ec046453bbc064d3557e17e9.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/input-9e17430bd65ea4afb9ac70b3031df183.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/input-9e17430bd65ea4afb9ac70b3031df183.unwrap
+    projectPath: Temp/input-9e17430bd65ea4afb9ac70b3031df183.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/input-a1a5f6e769eae4374975e7dbcf1e2c5d.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/input-a1a5f6e769eae4374975e7dbcf1e2c5d.unwrap
+    projectPath: Temp/input-a1a5f6e769eae4374975e7dbcf1e2c5d.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/input-a4c0a2af908004c7e8c9b0dc97f751e9.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/input-a4c0a2af908004c7e8c9b0dc97f751e9.unwrap
+    projectPath: Temp/input-a4c0a2af908004c7e8c9b0dc97f751e9.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/input-a52e4639feaf14505a7f7a3f6ab0fcae.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/input-a52e4639feaf14505a7f7a3f6ab0fcae.unwrap
+    projectPath: Temp/input-a52e4639feaf14505a7f7a3f6ab0fcae.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/input-a6a25deed634747feb0afe378a7ff751.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/input-a6a25deed634747feb0afe378a7ff751.unwrap
+    projectPath: Temp/input-a6a25deed634747feb0afe378a7ff751.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/input-a95073632af8346a28ee377a43166580.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/input-a95073632af8346a28ee377a43166580.unwrap
+    projectPath: Temp/input-a95073632af8346a28ee377a43166580.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/input-aa5d74c255ad74670a174094de378c55.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/input-aa5d74c255ad74670a174094de378c55.unwrap
+    projectPath: Temp/input-aa5d74c255ad74670a174094de378c55.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/input-af8ed5179f8da479194722cb8df60cc1.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/input-af8ed5179f8da479194722cb8df60cc1.unwrap
+    projectPath: Temp/input-af8ed5179f8da479194722cb8df60cc1.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/input-b1336b9a63d994d9ea2fc4cbfab13613.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/input-b1336b9a63d994d9ea2fc4cbfab13613.unwrap
+    projectPath: Temp/input-b1336b9a63d994d9ea2fc4cbfab13613.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/input-bbb125135124d4f6699d9314ae564a9f.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/input-bbb125135124d4f6699d9314ae564a9f.unwrap
+    projectPath: Temp/input-bbb125135124d4f6699d9314ae564a9f.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/input-c0d477f61699c41a79fcd50b126e776b.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/input-c0d477f61699c41a79fcd50b126e776b.unwrap
+    projectPath: Temp/input-c0d477f61699c41a79fcd50b126e776b.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/input-cca43cc6824914ab2b8948e5e62a0a3c.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/input-cca43cc6824914ab2b8948e5e62a0a3c.unwrap
+    projectPath: Temp/input-cca43cc6824914ab2b8948e5e62a0a3c.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/input-cda08d2caf91a444587221dfd1c63a16.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/input-cda08d2caf91a444587221dfd1c63a16.unwrap
+    projectPath: Temp/input-cda08d2caf91a444587221dfd1c63a16.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/input-d0594986359f14d2793b6b921a4233c3.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/input-d0594986359f14d2793b6b921a4233c3.unwrap
+    projectPath: Temp/input-d0594986359f14d2793b6b921a4233c3.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/input-d2aa17e1bcba54fa9b054cade0649f87.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/input-d2aa17e1bcba54fa9b054cade0649f87.unwrap
+    projectPath: Temp/input-d2aa17e1bcba54fa9b054cade0649f87.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/input-d3a8c342ef3684ac89891c4fb9df4183.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/input-d3a8c342ef3684ac89891c4fb9df4183.unwrap
+    projectPath: Temp/input-d3a8c342ef3684ac89891c4fb9df4183.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/input-e10ff706b794947d6b03781410a3f520.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/input-e10ff706b794947d6b03781410a3f520.unwrap
+    projectPath: Temp/input-e10ff706b794947d6b03781410a3f520.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/input-e80a7c374797d48b8bf7149aedd47e14.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/input-e80a7c374797d48b8bf7149aedd47e14.unwrap
+    projectPath: Temp/input-e80a7c374797d48b8bf7149aedd47e14.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/input-ec50c45bd7fb74239a130f75cd012b4a.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/input-ec50c45bd7fb74239a130f75cd012b4a.unwrap
+    projectPath: Temp/input-ec50c45bd7fb74239a130f75cd012b4a.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/input-ef6af1f45ebfc4798840ccfa1bd0de14.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/input-ef6af1f45ebfc4798840ccfa1bd0de14.unwrap
+    projectPath: Temp/input-ef6af1f45ebfc4798840ccfa1bd0de14.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/input-f68529ae571674a5f8548bb21da4da03.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/input-f68529ae571674a5f8548bb21da4da03.unwrap
+    projectPath: Temp/input-f68529ae571674a5f8548bb21da4da03.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/input-f86bb65cbb69243a29c76b4dd52bd7c2.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/input-f86bb65cbb69243a29c76b4dd52bd7c2.unwrap
+    projectPath: Temp/input-f86bb65cbb69243a29c76b4dd52bd7c2.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/input-fab5213413e11466a8bb745de8d385dc.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/input-fab5213413e11466a8bb745de8d385dc.unwrap
+    projectPath: Temp/input-fab5213413e11466a8bb745de8d385dc.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/input-fb4a4bb299b374e4fbd5d9e46780b642.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/input-fb4a4bb299b374e4fbd5d9e46780b642.unwrap
+    projectPath: Temp/input-fb4a4bb299b374e4fbd5d9e46780b642.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/input-ffc31afca45284e74a5d27b1db698263.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/input-ffc31afca45284e74a5d27b1db698263.unwrap
+    projectPath: Temp/input-ffc31afca45284e74a5d27b1db698263.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/output-06f24c7caf8844a03b0bdf8422a46cf2.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/output-06f24c7caf8844a03b0bdf8422a46cf2.unwrap
+    projectPath: Temp/output-06f24c7caf8844a03b0bdf8422a46cf2.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/output-07e9931df6d66467eab314c2007c54b5.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/output-07e9931df6d66467eab314c2007c54b5.unwrap
+    projectPath: Temp/output-07e9931df6d66467eab314c2007c54b5.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/output-10752943e7dad4ca69fe8ce39a6fde9d.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/output-10752943e7dad4ca69fe8ce39a6fde9d.unwrap
+    projectPath: Temp/output-10752943e7dad4ca69fe8ce39a6fde9d.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/output-15da231308f0c4150b71040ac09c24b6.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/output-15da231308f0c4150b71040ac09c24b6.unwrap
+    projectPath: Temp/output-15da231308f0c4150b71040ac09c24b6.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/output-16ab16a89c9804dbaadf751e57c2f001.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/output-16ab16a89c9804dbaadf751e57c2f001.unwrap
+    projectPath: Temp/output-16ab16a89c9804dbaadf751e57c2f001.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/output-206294dd396c745aea6b059ff9914f81.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/output-206294dd396c745aea6b059ff9914f81.unwrap
+    projectPath: Temp/output-206294dd396c745aea6b059ff9914f81.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/output-22671e4a3f7014edcb4dfadda6d34827.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/output-22671e4a3f7014edcb4dfadda6d34827.unwrap
+    projectPath: Temp/output-22671e4a3f7014edcb4dfadda6d34827.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/output-232bab25e6a754c55825d8d0bffda921.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/output-232bab25e6a754c55825d8d0bffda921.unwrap
+    projectPath: Temp/output-232bab25e6a754c55825d8d0bffda921.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/output-265a99a7d8f0b4c6db17991ed60a259f.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/output-265a99a7d8f0b4c6db17991ed60a259f.unwrap
+    projectPath: Temp/output-265a99a7d8f0b4c6db17991ed60a259f.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/output-33f3280643de648f7995a2d1e24c95b1.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/output-33f3280643de648f7995a2d1e24c95b1.unwrap
+    projectPath: Temp/output-33f3280643de648f7995a2d1e24c95b1.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/output-34fc2d8cbff6e47c1aea9c826856879d.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/output-34fc2d8cbff6e47c1aea9c826856879d.unwrap
+    projectPath: Temp/output-34fc2d8cbff6e47c1aea9c826856879d.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/output-373b943c3c1fc4faba52c392ec088e38.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/output-373b943c3c1fc4faba52c392ec088e38.unwrap
+    projectPath: Temp/output-373b943c3c1fc4faba52c392ec088e38.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/output-378ee05811d6945e5a3c40f24560dbc4.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/output-378ee05811d6945e5a3c40f24560dbc4.unwrap
+    projectPath: Temp/output-378ee05811d6945e5a3c40f24560dbc4.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/output-4a42b7026eedf406ebb054f64f730b56.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/output-4a42b7026eedf406ebb054f64f730b56.unwrap
+    projectPath: Temp/output-4a42b7026eedf406ebb054f64f730b56.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/output-56dc5a4d269dc4a398a517ef56028d19.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/output-56dc5a4d269dc4a398a517ef56028d19.unwrap
+    projectPath: Temp/output-56dc5a4d269dc4a398a517ef56028d19.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/output-613673c7469df44f183b68c892391785.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/output-613673c7469df44f183b68c892391785.unwrap
+    projectPath: Temp/output-613673c7469df44f183b68c892391785.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/output-61ed95c1455d345fb8bc2589eb772262.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/output-61ed95c1455d345fb8bc2589eb772262.unwrap
+    projectPath: Temp/output-61ed95c1455d345fb8bc2589eb772262.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/output-691a1b2beb9c44faeacdc4f9addc8c06.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/output-691a1b2beb9c44faeacdc4f9addc8c06.unwrap
+    projectPath: Temp/output-691a1b2beb9c44faeacdc4f9addc8c06.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/output-70b4c8f9c7cdb46eda25efdb4e623811.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/output-70b4c8f9c7cdb46eda25efdb4e623811.unwrap
+    projectPath: Temp/output-70b4c8f9c7cdb46eda25efdb4e623811.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/output-7a3db84afed7e466fa0f6646eff54256.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/output-7a3db84afed7e466fa0f6646eff54256.unwrap
+    projectPath: Temp/output-7a3db84afed7e466fa0f6646eff54256.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/output-7ad7aff741e2f4aa68de178dbd51bcf9.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/output-7ad7aff741e2f4aa68de178dbd51bcf9.unwrap
+    projectPath: Temp/output-7ad7aff741e2f4aa68de178dbd51bcf9.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/output-7d33a81c3e3694741a3b73df6723f83b.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/output-7d33a81c3e3694741a3b73df6723f83b.unwrap
+    projectPath: Temp/output-7d33a81c3e3694741a3b73df6723f83b.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/output-7fb002c9b486b423eb66c8a17e631704.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/output-7fb002c9b486b423eb66c8a17e631704.unwrap
+    projectPath: Temp/output-7fb002c9b486b423eb66c8a17e631704.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/output-8f2b5a30af2ab4fcea618e3d134e3ab9.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/output-8f2b5a30af2ab4fcea618e3d134e3ab9.unwrap
+    projectPath: Temp/output-8f2b5a30af2ab4fcea618e3d134e3ab9.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/output-910219ab3f00f4c6eb854c8a14268fc4.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/output-910219ab3f00f4c6eb854c8a14268fc4.unwrap
+    projectPath: Temp/output-910219ab3f00f4c6eb854c8a14268fc4.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/output-93a23e6d655e34e2ebad82dd71981068.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/output-93a23e6d655e34e2ebad82dd71981068.unwrap
+    projectPath: Temp/output-93a23e6d655e34e2ebad82dd71981068.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/output-93f7a0f36d3214709a9e93f711c3ede7.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/output-93f7a0f36d3214709a9e93f711c3ede7.unwrap
+    projectPath: Temp/output-93f7a0f36d3214709a9e93f711c3ede7.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/output-94a2f65ac371a489aaad30775fdc7be6.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/output-94a2f65ac371a489aaad30775fdc7be6.unwrap
+    projectPath: Temp/output-94a2f65ac371a489aaad30775fdc7be6.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/output-a156559bbfece404ea63a909e599f5f6.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/output-a156559bbfece404ea63a909e599f5f6.unwrap
+    projectPath: Temp/output-a156559bbfece404ea63a909e599f5f6.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/output-a31c9889ec4de4aba8d0393c70ba4bc1.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/output-a31c9889ec4de4aba8d0393c70ba4bc1.unwrap
+    projectPath: Temp/output-a31c9889ec4de4aba8d0393c70ba4bc1.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/output-acf833ee32f544c20a247a26af523123.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/output-acf833ee32f544c20a247a26af523123.unwrap
+    projectPath: Temp/output-acf833ee32f544c20a247a26af523123.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/output-b1cbae15708ac4f9187773a2efcf93d2.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/output-b1cbae15708ac4f9187773a2efcf93d2.unwrap
+    projectPath: Temp/output-b1cbae15708ac4f9187773a2efcf93d2.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/output-b80f744564c6e4af1a98b37eacbd22ac.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/output-b80f744564c6e4af1a98b37eacbd22ac.unwrap
+    projectPath: Temp/output-b80f744564c6e4af1a98b37eacbd22ac.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/output-bd52c8f9fe8054abea963a452e5f31c8.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/output-bd52c8f9fe8054abea963a452e5f31c8.unwrap
+    projectPath: Temp/output-bd52c8f9fe8054abea963a452e5f31c8.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/output-c1932d5fb166d4b8aa694574ff8a3cca.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/output-c1932d5fb166d4b8aa694574ff8a3cca.unwrap
+    projectPath: Temp/output-c1932d5fb166d4b8aa694574ff8a3cca.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/output-c2e51729d45bb4d1f89f1eb4a35b0cb5.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/output-c2e51729d45bb4d1f89f1eb4a35b0cb5.unwrap
+    projectPath: Temp/output-c2e51729d45bb4d1f89f1eb4a35b0cb5.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/output-ca85f107ca22c4726a9bec57db298d0c.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/output-ca85f107ca22c4726a9bec57db298d0c.unwrap
+    projectPath: Temp/output-ca85f107ca22c4726a9bec57db298d0c.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/output-cf1fb880c7e3441f4bc519fbe030f123.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/output-cf1fb880c7e3441f4bc519fbe030f123.unwrap
+    projectPath: Temp/output-cf1fb880c7e3441f4bc519fbe030f123.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/output-d0f98c951ae874fe08d16d09612c1872.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/output-d0f98c951ae874fe08d16d09612c1872.unwrap
+    projectPath: Temp/output-d0f98c951ae874fe08d16d09612c1872.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/output-d2f19d0e27c59425095e4db2bce05fbc.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/output-d2f19d0e27c59425095e4db2bce05fbc.unwrap
+    projectPath: Temp/output-d2f19d0e27c59425095e4db2bce05fbc.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/output-d53cd720b0c9e4ad4a2b5a1ccd525303.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/output-d53cd720b0c9e4ad4a2b5a1ccd525303.unwrap
+    projectPath: Temp/output-d53cd720b0c9e4ad4a2b5a1ccd525303.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/output-dfe631c5ca5364803970a21728bbdeb3.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/output-dfe631c5ca5364803970a21728bbdeb3.unwrap
+    projectPath: Temp/output-dfe631c5ca5364803970a21728bbdeb3.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/output-e118d37da8df84387917bd77acf194f0.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/output-e118d37da8df84387917bd77acf194f0.unwrap
+    projectPath: Temp/output-e118d37da8df84387917bd77acf194f0.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/output-e48c8ce0ad7af4927b5ee47b7ce94940.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/output-e48c8ce0ad7af4927b5ee47b7ce94940.unwrap
+    projectPath: Temp/output-e48c8ce0ad7af4927b5ee47b7ce94940.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/output-e4bc6b45f0be34d6382537a170ed9454.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/output-e4bc6b45f0be34d6382537a170ed9454.unwrap
+    projectPath: Temp/output-e4bc6b45f0be34d6382537a170ed9454.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/output-ebfabb3c5f81e469eb65338801626404.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/output-ebfabb3c5f81e469eb65338801626404.unwrap
+    projectPath: Temp/output-ebfabb3c5f81e469eb65338801626404.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/output-f5d89f0190ba34ad590a67076719f69a.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/output-f5d89f0190ba34ad590a67076719f69a.unwrap
+    projectPath: Temp/output-f5d89f0190ba34ad590a67076719f69a.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/output-f9ca835d0725545059f917668fb5d6d6.unwrap
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/output-f9ca835d0725545059f917668fb5d6d6.unwrap
+    projectPath: Temp/output-f9ca835d0725545059f917668fb5d6d6.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/ProcessJobs/16c52406635b7d4367b30514ca4c2ca1.clust
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/ProcessJobs/16c52406635b7d4367b30514ca4c2ca1.clust
+    projectPath: Temp/ProcessJobs/16c52406635b7d4367b30514ca4c2ca1.clust
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/ProcessJobs/19f48303cd99adaa5a8e6b4c55916105.clust
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/ProcessJobs/19f48303cd99adaa5a8e6b4c55916105.clust
+    projectPath: Temp/ProcessJobs/19f48303cd99adaa5a8e6b4c55916105.clust
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/ProcessJobs/419345ca7a663f2025807f40406d530c.clust
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/ProcessJobs/419345ca7a663f2025807f40406d530c.clust
+    projectPath: Temp/ProcessJobs/419345ca7a663f2025807f40406d530c.clust
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/ProcessJobs/419345ca7a663f2025807f40406d530c.lt
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/ProcessJobs/419345ca7a663f2025807f40406d530c.lt
+    projectPath: Temp/ProcessJobs/419345ca7a663f2025807f40406d530c.lt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/ProcessJobs/419345ca7a663f2025807f40406d530c.vis
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/ProcessJobs/419345ca7a663f2025807f40406d530c.vis
+    projectPath: Temp/ProcessJobs/419345ca7a663f2025807f40406d530c.vis
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/ProcessJobs/4b3b2d534b99ab356b6c93a16a3ea7a2.clust
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/ProcessJobs/4b3b2d534b99ab356b6c93a16a3ea7a2.clust
+    projectPath: Temp/ProcessJobs/4b3b2d534b99ab356b6c93a16a3ea7a2.clust
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/ProcessJobs/4b3b2d534b99ab356b6c93a16a3ea7a2.lt
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/ProcessJobs/4b3b2d534b99ab356b6c93a16a3ea7a2.lt
+    projectPath: Temp/ProcessJobs/4b3b2d534b99ab356b6c93a16a3ea7a2.lt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/ProcessJobs/4b3b2d534b99ab356b6c93a16a3ea7a2.vis
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/ProcessJobs/4b3b2d534b99ab356b6c93a16a3ea7a2.vis
+    projectPath: Temp/ProcessJobs/4b3b2d534b99ab356b6c93a16a3ea7a2.vis
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/ProcessJobs/546e93ff0daecc31154c13f0290a0244.clust
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/ProcessJobs/546e93ff0daecc31154c13f0290a0244.clust
+    projectPath: Temp/ProcessJobs/546e93ff0daecc31154c13f0290a0244.clust
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/ProcessJobs/546e93ff0daecc31154c13f0290a0244.lt
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/ProcessJobs/546e93ff0daecc31154c13f0290a0244.lt
+    projectPath: Temp/ProcessJobs/546e93ff0daecc31154c13f0290a0244.lt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/ProcessJobs/546e93ff0daecc31154c13f0290a0244.vis
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/ProcessJobs/546e93ff0daecc31154c13f0290a0244.vis
+    projectPath: Temp/ProcessJobs/546e93ff0daecc31154c13f0290a0244.vis
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/ProcessJobs/5486ab9a90bb243e956a603af7078eb0.clust
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/ProcessJobs/5486ab9a90bb243e956a603af7078eb0.clust
+    projectPath: Temp/ProcessJobs/5486ab9a90bb243e956a603af7078eb0.clust
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/ProcessJobs/6c9783b17567b5c8fbb530435549099e.clust
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/ProcessJobs/6c9783b17567b5c8fbb530435549099e.clust
+    projectPath: Temp/ProcessJobs/6c9783b17567b5c8fbb530435549099e.clust
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/ProcessJobs/6c9783b17567b5c8fbb530435549099e.vis
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/ProcessJobs/6c9783b17567b5c8fbb530435549099e.vis
+    projectPath: Temp/ProcessJobs/6c9783b17567b5c8fbb530435549099e.vis
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/ProcessJobs/7989ad8d3fe6ea05f0c2fd4c19d44ae5.clust
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/ProcessJobs/7989ad8d3fe6ea05f0c2fd4c19d44ae5.clust
+    projectPath: Temp/ProcessJobs/7989ad8d3fe6ea05f0c2fd4c19d44ae5.clust
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/ProcessJobs/87b8f8b71ebd6705ad04611ddede71d7.clust
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/ProcessJobs/87b8f8b71ebd6705ad04611ddede71d7.clust
+    projectPath: Temp/ProcessJobs/87b8f8b71ebd6705ad04611ddede71d7.clust
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/ProcessJobs/8f7371bb7f89b669d4b409c53b8a73e9.clust
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/ProcessJobs/8f7371bb7f89b669d4b409c53b8a73e9.clust
+    projectPath: Temp/ProcessJobs/8f7371bb7f89b669d4b409c53b8a73e9.clust
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/ProcessJobs/8f7371bb7f89b669d4b409c53b8a73e9.lt
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/ProcessJobs/8f7371bb7f89b669d4b409c53b8a73e9.lt
+    projectPath: Temp/ProcessJobs/8f7371bb7f89b669d4b409c53b8a73e9.lt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/ProcessJobs/8f7371bb7f89b669d4b409c53b8a73e9.vis
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/ProcessJobs/8f7371bb7f89b669d4b409c53b8a73e9.vis
+    projectPath: Temp/ProcessJobs/8f7371bb7f89b669d4b409c53b8a73e9.vis
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/ProcessJobs/938c1f51667ac4dff4eba3a2b96df5d0.clust
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/ProcessJobs/938c1f51667ac4dff4eba3a2b96df5d0.clust
+    projectPath: Temp/ProcessJobs/938c1f51667ac4dff4eba3a2b96df5d0.clust
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/ProcessJobs/99a008020a370504818743ab08f17eea.clust
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/ProcessJobs/99a008020a370504818743ab08f17eea.clust
+    projectPath: Temp/ProcessJobs/99a008020a370504818743ab08f17eea.clust
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/ProcessJobs/99a490a5cd1238618713c5f9c6f3719e.clust
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/ProcessJobs/99a490a5cd1238618713c5f9c6f3719e.clust
+    projectPath: Temp/ProcessJobs/99a490a5cd1238618713c5f9c6f3719e.clust
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/ProcessJobs/b7fcff7e9e10b52b74f4971f1e45250e.clust
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/ProcessJobs/b7fcff7e9e10b52b74f4971f1e45250e.clust
+    projectPath: Temp/ProcessJobs/b7fcff7e9e10b52b74f4971f1e45250e.clust
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/ProcessJobs/b7fcff7e9e10b52b74f4971f1e45250e.vis
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/ProcessJobs/b7fcff7e9e10b52b74f4971f1e45250e.vis
+    projectPath: Temp/ProcessJobs/b7fcff7e9e10b52b74f4971f1e45250e.vis
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/ProcessJobs/cfb71cde9bae7b4cd631565a9b04dd1c.clust
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/ProcessJobs/cfb71cde9bae7b4cd631565a9b04dd1c.clust
+    projectPath: Temp/ProcessJobs/cfb71cde9bae7b4cd631565a9b04dd1c.clust
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/ProcessJobs/cfb71cde9bae7b4cd631565a9b04dd1c.lt
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/ProcessJobs/cfb71cde9bae7b4cd631565a9b04dd1c.lt
+    projectPath: Temp/ProcessJobs/cfb71cde9bae7b4cd631565a9b04dd1c.lt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/ProcessJobs/cfb71cde9bae7b4cd631565a9b04dd1c.vis
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/ProcessJobs/cfb71cde9bae7b4cd631565a9b04dd1c.vis
+    projectPath: Temp/ProcessJobs/cfb71cde9bae7b4cd631565a9b04dd1c.vis
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/ProcessJobs/d539c21ddcef441c28b9efa4da399110.clust
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/ProcessJobs/d539c21ddcef441c28b9efa4da399110.clust
+    projectPath: Temp/ProcessJobs/d539c21ddcef441c28b9efa4da399110.clust
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/ProcessJobs/fc16d53076e2404b24b9deeeb47f3e2d.clust
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/ProcessJobs/fc16d53076e2404b24b9deeeb47f3e2d.clust
+    projectPath: Temp/ProcessJobs/fc16d53076e2404b24b9deeeb47f3e2d.clust
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/UnityTempFile-875bc53bb909844d091923935138f3f1
+    fullPath: /Users/admin/Desktop/Unity Projects/Shattered-Iron/Temp/UnityTempFile-875bc53bb909844d091923935138f3f1
+    projectPath: Temp/UnityTempFile-875bc53bb909844d091923935138f3f1
     originalPath: 
     status: 1
     staged: 0
